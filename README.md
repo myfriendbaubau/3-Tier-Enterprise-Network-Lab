@@ -41,8 +41,18 @@ Full reasoning, configs, and addressing for all three iterations are in [`docs/f
 
 ## Validated
 
+## Validated
+
 - OSPF adjacencies FULL on all Core–Distribution links
 - HSRP failover tested (DIST1 shutdown → active role moves to DIST2 cleanly)
 - EtherChannel member-link removal tested (traffic continues uninterrupted on remaining member)
+- STP root bridge confirmed unchanged for all VLANs after HSRP and EtherChannel failure tests
 - MGMT-RESTRICT ACL confirmed blocking VLAN 10/20/40 → VLAN 30 on both distribution switches
 - End-to-end internet reachability confirmed from all four VLANs through the firewall edge
+
+### Phase 10 evidence
+
+![PC1-PC2-PC3-PC4 ping test](./docs/screenshots/phase10-pc1-pc2-pc3-pc4-pings.png)
+![HSRP failover](./docs/screenshots/phase10-hsrp-failover.png)
+![EtherChannel resilience](./docs/screenshots/phase10-etherchannel-resilience.png)
+![STP root bridge unchanged](./docs/screenshots/phase10-stp-root-unchanged.png)
