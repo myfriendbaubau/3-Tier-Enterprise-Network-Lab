@@ -142,7 +142,7 @@ write memory
 | The firewall itself dies | ❌ No | Single device — SPOF by design |
 | The ISP/internet circuit dies | ❌ No | Single `ext-conn-0` — out of scope (would need dual-ISP + BGP) |
 
-**Framing for review:** this design deliberately covers the two most common internal failure domains (core, distribution) but knowingly accepts the firewall and the internet circuit as single points of failure — a documented tradeoff, not an oversight. Iteration 1 (the HA pair) is the proven fix if firewall redundancy becomes a requirement; the switch-based rewiring pattern for it is already built out and tested in this same lab history.
+This design deliberately covers the two most common internal failure domains (core, distribution) but knowingly accepts the firewall and the internet circuit as single points of failure — a documented tradeoff, not an oversight. Iteration 1 (the HA pair) is the proven fix if firewall redundancy becomes a requirement;
 
 ---
 
