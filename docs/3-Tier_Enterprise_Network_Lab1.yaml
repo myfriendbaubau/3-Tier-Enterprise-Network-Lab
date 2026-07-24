@@ -1,0 +1,3300 @@
+annotations:
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#131212'
+    rotation: 0
+    text_bold: true
+    text_content: Po1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -680.0
+    y1: 120.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -600.0
+    y1: 160.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#141414'
+    rotation: 0
+    text_bold: true
+    text_content: Po1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -320.0
+    y1: -160.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -240.0
+    y1: -120.0
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -240.0
+    y1: 160.0
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 280.0
+    y1: -200.0
+    z_index: 5
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 280.0
+    y1: -120.0
+    z_index: 6
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -120.0
+    y1: 160.0
+    z_index: 7
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 240.0
+    y1: 200.0
+    z_index: 8
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po3
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -160.0
+    y1: -120.0
+    z_index: 8
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 360.0
+    y1: 160.0
+    z_index: 9
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po3
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 400.0
+    y1: -120.0
+    z_index: 8
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 720.0
+    y1: 200.0
+    z_index: 10
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po4
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -120.0
+    y1: -200.0
+    z_index: 10
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 760.0
+    y1: 120.0
+    z_index: 11
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po4
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 480.0
+    y1: -160.0
+    z_index: 11
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#070707'
+    rotation: 0
+    text_bold: true
+    text_content: Po1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -280.0
+    y1: -520.0
+    z_index: 13
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#070707'
+    rotation: 0
+    text_bold: true
+    text_content: Po10
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -280.0
+    y1: -240.0
+    z_index: 13
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#070707'
+    rotation: 0
+    text_bold: true
+    text_content: Po10
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 320.0
+    y1: -280.0
+    z_index: 14
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -160.0
+    y1: -520.0
+    z_index: 15
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 280.0
+    y1: -520.0
+    z_index: 16
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po11
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -120.0
+    y1: -280.0
+    z_index: 17
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po11
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 440.0
+    y1: -240.0
+    z_index: 18
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: Po2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 440.0
+    y1: -480.0
+    z_index: 19
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#0C0C0C'
+    rotation: 0
+    text_bold: true
+    text_content: |-
+      Topology Overview
+      ┌─────────────────────────────────────────────┐
+      │              FIREWALL EDGE                   │
+      │               ASAV-0 (single, 3-legged)      │
+      │  Gi0/0──CORE1 (10.0.12.20/30)                │
+      │  Gi0/1──CORE2 (10.0.12.24/30)                │
+      │  Gi0/2──outside──ext-conn-0 (192.168.255.0/24)│
+      │  NAT: object INTERNAL-NET 10.0.0.0/8 (any,outside)│
+      │  Route: CORE1 AD1 (primary) / CORE2 AD254 (floating backup)│
+      │  Known limitation: single firewall = SPOF for internet path│
+      └──────┬───────────────────────────────────────┘
+             │
+      ┌──────┴────────────────────────────────────────┐
+      │              CORE LAYER                     │
+      │   CORE1 ─────────────────────── CORE2       │
+      │   (1.1.1.1)   10.0.12.16/30   (2.2.2.2)     │
+      └──────┬──────────────────────────┬───────────┘
+        Po10/Po11                    Po10/Po11
+        (L3 EtherChannel)         (L3 EtherChannel)
+      ┌──────┴──────────────────────────┴───────────┐
+      │           DISTRIBUTION LAYER                │
+      │   DIST1 ◄──── HSRP ────► DIST2              │
+      │ (Active, 10,30)    (Active, 20,40)          │
+      │ (Standby, 20,40)   (Standby, 10,30)         │
+      └──────┬──────────────────────────┬───────────┘
+           L2 EtherChannel trunks (LACP, dot1Q)
+        ┌────┴────┬──────────┬──────────┴────┐
+       [ACC1]  [ACC2]     [ACC3]       [ACC4]
+       VLAN10  VLAN20    VLAN30       VLAN40
+        |       |          |             |
+      [PC1]    [PC2]      [PC3]         [PC4]
+      10.0.10.11  10.0.20.11  10.0.30.11  10.0.40.11
+    text_font: monospace
+    text_italic: false
+    text_size: 19
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -1840.0
+    y1: -1040.0
+    z_index: 12
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: "Building configuration...\n\nCurrent configuration : 7655 bytes\n\
+          !\n! Last configuration change at 12:51:59 UTC Fri Jul 24 2026 by cisco\n\
+          !\nversion 17.16\nservice timestamps debug datetime msec\nservice timestamps\
+          \ log datetime msec\n!\nhostname DIST1\n!\nboot-start-marker\nboot-end-marker\n\
+          !\n!\nlogging discriminator EXCESS severity drops 6 msg-body drops EXCESSCOLL\n\
+          logging buffered 50000\nno logging console\nno aaa new-model\n!\n!\n!\n\
+          !\n!\n!\n!\n!\n!\n!\n!\n!\n!\nip audit notify log\nip audit po max-events\
+          \ 100\nip domain name mylab.com\nip cef\nlogin on-success log\nno ipv6 cef\n\
+          !\n!\n!\n!\n!\n!\n!\n!\ncrypto pki trustpoint TP-self-signed-131184663\n\
+          \ enrollment selfsigned\n subject-name cn=IOS-Self-Signed-Certificate-131184663\n\
+          \ revocation-check none\n rsakeypair TP-self-signed-131184663\n hash sha512\n\
+          !\n!\ncrypto pki certificate chain TP-self-signed-131184663\n certificate\
+          \ self-signed 01\n  3082032E 30820216 A0030201 02020101 300D0609 2A864886\
+          \ F70D0101 0D050030\n  30312E30 2C060355 04030C25 494F532D 53656C66 2D536967\
+          \ 6E65642D 43657274\n  69666963 6174652D 31333131 38343636 33301E17 0D323630\
+          \ 33323931 38303135\n  365A170D 33363033 32383138 30313536 5A303031 2E302C06\
+          \ 03550403 0C25494F\n  532D5365 6C662D53 69676E65 642D4365 72746966 69636174\
+          \ 652D3133 31313834\n  36363330 82012230 0D06092A 864886F7 0D010101 05000382\
+          \ 010F0030 82010A02\n  82010100 BDF3B6E4 C05C8393 742128C1 6D45B06A 7190605F\
+          \ 14DA2116 E87EAA2C\n  389CFB97 31C4958F 32795277 D2A9B359 E314D972 959EBF04\
+          \ 22B07E4A CD52085D\n  6023AA17 355E2878 3964C8DF E302975E 3BB326E9 0DFEA230\
+          \ B207D230 AB54FD1E\n  9129671E A9E82397 DD658483 90CFD0B5 321EA6B1 24468B75\
+          \ 4E82729A 3FD86DAD\n  192BB2A6 26EF8519 0D715EC4 A30E1C75 BC9ED308 9AA041E7\
+          \ 723EA9BC 2D790CDC\n  8647BA32 3B525187 1F14C8AC 89F0E587 1B921A3D C72DF481\
+          \ 00B578AF 9DE4E866\n  F81CC6E8 AD102203 8552DB84 C7210234 756225A3 E2740000\
+          \ 20F779DA B15BA3BF\n  E4956F33 53A09A13 21B4F0CD 7C2022F5 BC543EE5 00C059D9\
+          \ FFDBB528 FE8872A2\n  D51884A9 02030100 01A35330 51301D06 03551D0E 04160414\
+          \ C49D83DD 9AB87874\n  BA12F2E4 90D1C052 37C2233E 301F0603 551D2304 18301680\
+          \ 14C49D83 DD9AB878\n  74BA12F2 E490D1C0 5237C223 3E300F06 03551D13 0101FF04\
+          \ 05300301 01FF300D\n  06092A86 4886F70D 01010D05 00038201 010067DF 54E67A60\
+          \ 92E84245 DD6718C1\n  E3C023FC DD0E3898 973C679A AF7F4AF7 354E50BA 131EC8EC\
+          \ F5D8CE0B 8ED641DD\n  4A4DC34F 7D6A246E A1C910FB 1491FE82 E80A2CC2 31117B0B\
+          \ 66150028 74CC9E7F\n  D7EC2734 845CD184 2844B8CF F8B4982B 6861915E A3A24B77\
+          \ 991EB9F4 36D65B29\n  38391E66 71C4FE98 49A5E380 4BA8401A C3369C8B 2E169357\
+          \ 0F1AAEC8 0A502753\n  17CE7289 890F0700 121B2D33 1F1C40C6 3514F9B2 66C3E09C\
+          \ 3DD53723 1059ADDD\n  4C9E1B59 4E98440E 62E36AAB EAECF7BC E174F1B8 63116FD9\
+          \ 922B15E2 ED1D525B\n  D77AB211 A8D1CB94 6B13BB96 DB94ABD6 D0BFE193 23860A9A\
+          \ 06600B53 2B9C6180\n  3B7FE968 A809F665 7B8EBA7E DC96C03A 5AF3\n  \tquit\n\
+          !\n!\nmemory free low-watermark processor 79497\n!\n!\nspanning-tree mode\
+          \ rapid-pvst\nspanning-tree extend system-id\nspanning-tree vlan 10,30 priority\
+          \ 4096\nspanning-tree vlan 20,40 priority 8192\nenable secret 9 $9$pfnHJSOCQbAXAU$cOZGiY69rYLyFstY8Ahjc0AMco7koCtcpE84N40Ys4g\n\
+          !\nusername cisco secret 9 $9$rKqzgJKfRPI5wE$fOJTOh0IO4HaLd7gqJKCrYHHlH/7ivcY7eZgI0gsNZk\n\
+          !\nvlan internal allocation policy ascending\n!\n!\n!\n!\n!\ninterface Loopback0\n\
+          \ ip address 3.3.3.3 255.255.255.255\n!\ninterface Port-channel1\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 10,30\n switchport mode trunk\n!\ninterface Port-channel2\n\
+          \ switchport trunk encapsulation dot1q\n switchport trunk native vlan 99\n\
+          \ switchport trunk allowed vlan 20,30\n switchport mode trunk\n!\ninterface\
+          \ Port-channel3\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 30\n switchport mode trunk\n\
+          !\ninterface Port-channel4\n switchport trunk encapsulation dot1q\n switchport\
+          \ trunk native vlan 99\n switchport trunk allowed vlan 30,40\n switchport\
+          \ mode trunk\n!\ninterface Port-channel10\n no switchport\n ip address 10.0.12.2\
+          \ 255.255.255.252\n ip ospf network point-to-point\n!\ninterface Port-channel11\n\
+          \ no switchport\n ip address 10.0.12.10 255.255.255.252\n ip ospf network\
+          \ point-to-point\n!\ninterface Ethernet0/0\n no switchport\n no ip address\n\
+          \ channel-group 10 mode active\n!\ninterface Ethernet0/1\n no switchport\n\
+          \ no ip address\n channel-group 10 mode active\n!\ninterface Ethernet0/2\n\
+          \ no switchport\n no ip address\n channel-group 11 mode active\n!\ninterface\
+          \ Ethernet0/3\n no switchport\n no ip address\n channel-group 11 mode active\n\
+          !\ninterface Ethernet1/0\n switchport trunk encapsulation dot1q\n switchport\
+          \ trunk native vlan 99\n switchport trunk allowed vlan 10,30\n switchport\
+          \ mode trunk\n bandwidth 1000000\n channel-group 1 mode active\n!\ninterface\
+          \ Ethernet1/1\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 10,30\n switchport mode\
+          \ trunk\n bandwidth 1000000\n channel-group 1 mode active\n!\ninterface\
+          \ Ethernet1/2\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 20,30\n switchport mode\
+          \ trunk\n bandwidth 1000000\n channel-group 2 mode active\n!\ninterface\
+          \ Ethernet1/3\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 20,30\n switchport mode\
+          \ trunk\n bandwidth 1000000\n channel-group 2 mode active\n!\ninterface\
+          \ Ethernet2/0\n description #Link to ACC3#\n switchport trunk encapsulation\
+          \ dot1q\n switchport trunk native vlan 99\n switchport trunk allowed vlan\
+          \ 30\n switchport mode trunk\n bandwidth 1000000\n channel-group 3 mode\
+          \ active\n!\ninterface Ethernet2/1\n description #Link to ACC3#\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 30\n switchport mode trunk\n bandwidth 1000000\n channel-group\
+          \ 3 mode active\n!\ninterface Ethernet2/2\n description #Link to ACC4#\n\
+          \ switchport trunk encapsulation dot1q\n switchport trunk native vlan 99\n\
+          \ switchport trunk allowed vlan 30,40\n switchport mode trunk\n bandwidth\
+          \ 1000000\n channel-group 4 mode active\n!\ninterface Ethernet2/3\n description\
+          \ #Link to ACC4#\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 30,40\n switchport mode\
+          \ trunk\n bandwidth 1000000\n channel-group 4 mode active\n!\ninterface\
+          \ Vlan10\n ip address 10.0.10.2 255.255.255.0\n ip helper-address 10.0.12.1\n\
+          \ ip access-group MGMT-RESTRICT in\n standby 1 ip 10.0.10.1\n standby 1\
+          \ priority 110\n standby 1 preempt\n!\ninterface Vlan20\n ip address 10.0.20.2\
+          \ 255.255.255.0\n ip helper-address 10.0.12.1\n ip access-group MGMT-RESTRICT\
+          \ in\n standby 2 ip 10.0.20.1\n!\ninterface Vlan30\n ip address 10.0.30.2\
+          \ 255.255.255.0\n ip helper-address 10.0.12.1\n standby 0 preempt\n standby\
+          \ 3 ip 10.0.30.1\n standby 3 priority 110\n standby 3 preempt\n!\ninterface\
+          \ Vlan40\n ip address 10.0.40.2 255.255.255.0\n ip helper-address 10.0.12.1\n\
+          \ ip access-group MGMT-RESTRICT in\n standby 4 ip 10.0.40.1\n!\nrouter ospf\
+          \ 1\n passive-interface Vlan10\n passive-interface Vlan20\n passive-interface\
+          \ Vlan30\n passive-interface Vlan40\n network 3.3.3.3 0.0.0.0 area 0\n network\
+          \ 10.0.10.0 0.0.0.255 area 0\n network 10.0.12.2 0.0.0.0 area 0\n network\
+          \ 10.0.12.10 0.0.0.0 area 0\n network 10.0.20.0 0.0.0.255 area 0\n network\
+          \ 10.0.30.0 0.0.0.255 area 0\n network 10.0.40.0 0.0.0.255 area 0\n!\nip\
+          \ forward-protocol nd\nip forward-protocol udp\n!\n!\nip http server\nip\
+          \ http secure-server\nip ssh bulk-mode 131072\n!\nip access-list extended\
+          \ MGMT-RESTRICT\n 10 deny ip 10.0.10.0 0.0.0.255 10.0.30.0 0.0.0.255 log-input\n\
+          \ 20 deny ip 10.0.20.0 0.0.0.255 10.0.30.0 0.0.0.255 log-input\n 30 deny\
+          \ ip 10.0.40.0 0.0.0.255 10.0.30.0 0.0.0.255 log-input\n 40 permit ip any\
+          \ any\nno logging btrace\n!\n!\n!\ncontrol-plane\n!\n!\n!\nline con 0\n\
+          \ exec-timeout 0 0\n logging synchronous\n login local\nline aux 0\nline\
+          \ vty 0 4\n exec-timeout 0 0\n login local\n transport input ssh\n!\n!\n\
+          end"
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: DIST1
+    node_definition: ioll2-xe
+    parameters: {}
+    ram: null
+    tags: []
+    x: -200
+    y: -200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: Ethernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: Ethernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: Ethernet2/1
+        mac_address: null
+        type: physical
+        slot: 9
+      - id: i11
+        label: Ethernet2/2
+        mac_address: null
+        type: physical
+        slot: 10
+      - id: i12
+        label: Ethernet2/3
+        mac_address: null
+        type: physical
+        slot: 11
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: "Building configuration...\n\nCurrent configuration : 7650 bytes\n\
+          !\n! Last configuration change at 12:51:59 UTC Fri Jul 24 2026 by cisco\n\
+          !\nversion 17.16\nservice timestamps debug datetime msec\nservice timestamps\
+          \ log datetime msec\n!\nhostname DIST2\n!\nboot-start-marker\nboot-end-marker\n\
+          !\n!\nlogging discriminator EXCESS severity drops 6 msg-body drops EXCESSCOLL\n\
+          logging buffered 50000\nno logging console\nno aaa new-model\n!\n!\n!\n\
+          !\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip dhcp snooping information option\nip\
+          \ audit notify log\nip audit po max-events 100\nip cef\nlogin on-success\
+          \ log\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\ncrypto pki trustpoint TP-self-signed-131184664\n\
+          \ enrollment selfsigned\n subject-name cn=IOS-Self-Signed-Certificate-131184664\n\
+          \ revocation-check none\n rsakeypair TP-self-signed-131184664\n hash sha512\n\
+          !\n!\ncrypto pki certificate chain TP-self-signed-131184664\n certificate\
+          \ self-signed 01\n  3082032E 30820216 A0030201 02020101 300D0609 2A864886\
+          \ F70D0101 0D050030\n  30312E30 2C060355 04030C25 494F532D 53656C66 2D536967\
+          \ 6E65642D 43657274\n  69666963 6174652D 31333131 38343636 34301E17 0D323630\
+          \ 33323931 38303135\n  395A170D 33363033 32383138 30313539 5A303031 2E302C06\
+          \ 03550403 0C25494F\n  532D5365 6C662D53 69676E65 642D4365 72746966 69636174\
+          \ 652D3133 31313834\n  36363430 82012230 0D06092A 864886F7 0D010101 05000382\
+          \ 010F0030 82010A02\n  82010100 9D765530 37EB17B5 F06B8F4A 938B12F8 60692196\
+          \ 48C2C702 CE5667E4\n  1FF7A58F 48359DC7 0084AF36 F971446E B4834BD4 84D0B502\
+          \ 233F9755 04C51F59\n  273EBB20 5D255301 A94DEA20 7E3B45A0 399CB361 5C132315\
+          \ E753FF9E DCFABB57\n  A7B49D9F 8DFD0A1A 0DAB1491 D28DD694 4C55F74F 0DCA1979\
+          \ 87084978 70EAD0EA\n  E952A692 9B5BE20F 43FA622D F46F9117 60C6881A DABBB6EB\
+          \ AE017240 BA8823E2\n  A5DF3A56 ADC450B9 105FFB72 11EBDFF1 71BD9DFC CEC4435F\
+          \ 34170769 304D5D8E\n  477E3D82 62C3D5EC 456F7CBB 7E61151A 01577FC5 00E973BE\
+          \ 2E086DDE EA3E7AEB\n  B88A4335 8CED5920 8A1B9E36 C8A5FD59 624FE8E3 1E6F9AD8\
+          \ 0918C12A 9C45005D\n  5716A047 02030100 01A35330 51301D06 03551D0E 04160414\
+          \ 37FDCFBA 3F5B2030\n  4F3ACC34 7DB8B90A B986AE0A 301F0603 551D2304 18301680\
+          \ 1437FDCF BA3F5B20\n  304F3ACC 347DB8B9 0AB986AE 0A300F06 03551D13 0101FF04\
+          \ 05300301 01FF300D\n  06092A86 4886F70D 01010D05 00038201 0100939E 74867EDE\
+          \ A6B19FC6 488F0BB7\n  C6299D6E 8E9B4BD5 45450AC4 1B72AA76 4BE6AC52 D3AD283A\
+          \ B06CC515 7C78EA1F\n  CF9ACB6A 38A0E031 76AD25C9 F324C75C 24EC8C55 38031118\
+          \ 16B78321 2947F87E\n  D2C6B46A FB97168C 28830C39 594B4CB9 C1CE861D F014585B\
+          \ 3A1EF9B7 64335375\n  417FBC8E C15D2AD6 DCDC3C80 BD97FB9B F3E44001 F8FBD77E\
+          \ CB45C277 40040E1B\n  D37E5676 262C7A2F 458A8329 2D4C0E43 B93175FF 1499580F\
+          \ 1EA34AEE 1D784E1A\n  78783FD3 5B4469D6 A50DD01F 7C9D23A1 57FD4267 EE7497BB\
+          \ FA647D78 51E4EEF1\n  8630D4DB 223FD569 9146CCE6 6AB2002A 18D47D5C DBC9493A\
+          \ 74AD6F98 F95F05A5\n  55AA231C 6C09171D 41365DC3 C2CE67B7 54C6\n  \tquit\n\
+          !\n!\nmemory free low-watermark processor 79497\n!\n!\nspanning-tree mode\
+          \ rapid-pvst\nspanning-tree extend system-id\nspanning-tree vlan 10,30 priority\
+          \ 8192\nspanning-tree vlan 20,40 priority 4096\nenable secret 9 $9$xTONByjOSQ.Kkk$u3U5mfZWGCVS4la0CZ3g9KQieKHCI8oFZTDFL3Y9Wkg\n\
+          !\nusername cisco secret 9 $9$WcJSsGhWk./UUk$5ibtku/UrH0RwoviIWYIxlQQKnKSNNNy4xK3mXKu3jk\n\
+          !\nvlan internal allocation policy ascending\n!\n!\n!\n!\n!\ninterface Loopback0\n\
+          \ ip address 4.4.4.4 255.255.255.255\n!\ninterface Port-channel1\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 20,30\n switchport mode trunk\n!\ninterface Port-channel2\n\
+          \ switchport trunk encapsulation dot1q\n switchport trunk native vlan 99\n\
+          \ switchport trunk allowed vlan 10,30\n switchport mode trunk\n!\ninterface\
+          \ Port-channel3\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 30\n switchport mode trunk\n\
+          !\ninterface Port-channel4\n switchport trunk encapsulation dot1q\n switchport\
+          \ trunk native vlan 99\n switchport trunk allowed vlan 30,40\n switchport\
+          \ mode trunk\n!\ninterface Port-channel10\n no switchport\n ip address 10.0.12.6\
+          \ 255.255.255.252\n ip ospf network point-to-point\n!\ninterface Port-channel11\n\
+          \ no switchport\n ip address 10.0.12.14 255.255.255.252\n ip ospf network\
+          \ point-to-point\n!\ninterface Ethernet0/0\n no switchport\n no ip address\n\
+          \ channel-group 10 mode active\n!\ninterface Ethernet0/1\n no switchport\n\
+          \ no ip address\n channel-group 10 mode active\n!\ninterface Ethernet0/2\n\
+          \ no switchport\n no ip address\n channel-group 11 mode active\n!\ninterface\
+          \ Ethernet0/3\n no switchport\n no ip address\n channel-group 11 mode active\n\
+          !\ninterface Ethernet1/0\n switchport trunk encapsulation dot1q\n switchport\
+          \ trunk native vlan 99\n switchport trunk allowed vlan 10,30\n switchport\
+          \ mode trunk\n bandwidth 1000000\n channel-group 2 mode active\n!\ninterface\
+          \ Ethernet1/1\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 10,30\n switchport mode\
+          \ trunk\n bandwidth 1000000\n channel-group 2 mode active\n!\ninterface\
+          \ Ethernet1/2\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 20,30\n switchport mode\
+          \ trunk\n bandwidth 1000000\n channel-group 1 mode active\n!\ninterface\
+          \ Ethernet1/3\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 20,30\n switchport mode\
+          \ trunk\n bandwidth 1000000\n channel-group 1 mode active\n!\ninterface\
+          \ Ethernet2/0\n description #Link to ACC3#\n switchport trunk encapsulation\
+          \ dot1q\n switchport trunk native vlan 99\n switchport trunk allowed vlan\
+          \ 30\n switchport mode trunk\n bandwidth 1000000\n channel-group 3 mode\
+          \ active\n!\ninterface Ethernet2/1\n description #Link to ACC3#\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 30\n switchport mode trunk\n bandwidth 1000000\n channel-group\
+          \ 3 mode active\n!\ninterface Ethernet2/2\n description #link to ACC4#\n\
+          \ switchport trunk encapsulation dot1q\n switchport trunk native vlan 99\n\
+          \ switchport trunk allowed vlan 30,40\n switchport mode trunk\n bandwidth\
+          \ 1000000\n channel-group 4 mode active\n!\ninterface Ethernet2/3\n description\
+          \ #link to ACC4#\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 30,40\n switchport mode\
+          \ trunk\n bandwidth 1000000\n channel-group 4 mode active\n!\ninterface\
+          \ Vlan10\n ip address 10.0.10.3 255.255.255.0\n ip helper-address 10.0.12.1\n\
+          \ ip access-group MGMT-RESTRICT in\n standby 1 ip 10.0.10.1\n!\ninterface\
+          \ Vlan20\n ip address 10.0.20.3 255.255.255.0\n ip helper-address 10.0.12.1\n\
+          \ ip access-group MGMT-RESTRICT in\n standby 2 ip 10.0.20.1\n standby 2\
+          \ priority 110\n standby 2 preempt\n!\ninterface Vlan30\n ip address 10.0.30.3\
+          \ 255.255.255.0\n ip helper-address 10.0.12.1\n standby 3 ip 10.0.30.1\n\
+          !\ninterface Vlan40\n ip address 10.0.40.3 255.255.255.0\n ip helper-address\
+          \ 10.0.12.1\n ip access-group MGMT-RESTRICT in\n standby 4 ip 10.0.40.1\n\
+          \ standby 4 priority 110\n standby 4 preempt\n!\nrouter ospf 1\n passive-interface\
+          \ Vlan10\n passive-interface Vlan20\n passive-interface Vlan30\n passive-interface\
+          \ Vlan40\n network 4.4.4.4 0.0.0.0 area 0\n network 10.0.10.0 0.0.0.255\
+          \ area 0\n network 10.0.12.6 0.0.0.0 area 0\n network 10.0.12.14 0.0.0.0\
+          \ area 0\n network 10.0.20.0 0.0.0.255 area 0\n network 10.0.30.0 0.0.0.255\
+          \ area 0\n network 10.0.40.0 0.0.0.255 area 0\n!\nip forward-protocol nd\n\
+          ip forward-protocol udp\n!\n!\nip http server\nip http secure-server\nip\
+          \ ssh bulk-mode 131072\n!\nip access-list extended MGMT-RESTRICT\n 10 deny\
+          \ ip 10.0.10.0 0.0.0.255 10.0.30.0 0.0.0.255 log-input\n 20 deny ip 10.0.20.0\
+          \ 0.0.0.255 10.0.30.0 0.0.0.255 log-input\n 30 deny ip 10.0.40.0 0.0.0.255\
+          \ 10.0.30.0 0.0.0.255 log-input\n 40 permit ip any any\nno logging btrace\n\
+          !\n!\n!\ncontrol-plane\n!\n!\n!\nline con 0\n exec-timeout 0 0\n logging\
+          \ synchronous\n login local\nline aux 0\nline vty 0 4\n exec-timeout 0 0\n\
+          \ login local\n transport input ssh\n!\n!\nend"
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: DIST2
+    node_definition: ioll2-xe
+    parameters: {}
+    ram: null
+    tags: []
+    x: 400
+    y: -200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: Ethernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: Ethernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: Ethernet2/1
+        mac_address: null
+        type: physical
+        slot: 9
+      - id: i11
+        label: Ethernet2/2
+        mac_address: null
+        type: physical
+        slot: 10
+      - id: i12
+        label: Ethernet2/3
+        mac_address: null
+        type: physical
+        slot: 11
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: "Building configuration...\n\nCurrent configuration : 5455 bytes\n\
+          !\n! Last configuration change at 12:51:58 UTC Fri Jul 24 2026 by cisco\n\
+          !\nversion 17.16\nservice timestamps debug datetime msec\nservice timestamps\
+          \ log datetime msec\n!\nhostname ACC1\n!\nboot-start-marker\nboot-end-marker\n\
+          !\n!\nlogging discriminator EXCESS severity drops 6 msg-body drops EXCESSCOLL\n\
+          logging buffered 50000\nno logging console\nno aaa new-model\n!\n!\n!\n\
+          !\n!\n!\n!\n!\n!\n!\n!\n!\n!\nip dhcp snooping vlan 10\nno ip dhcp snooping\
+          \ information option\nip dhcp snooping\nip audit notify log\nip audit po\
+          \ max-events 100\nip cef\nlogin on-success log\nno ipv6 cef\n!\n!\n!\n!\n\
+          !\n!\n!\n!\ncrypto pki trustpoint TP-self-signed-131184665\n enrollment\
+          \ selfsigned\n subject-name cn=IOS-Self-Signed-Certificate-131184665\n revocation-check\
+          \ none\n rsakeypair TP-self-signed-131184665\n hash sha512\n!\n!\ncrypto\
+          \ pki certificate chain TP-self-signed-131184665\n certificate self-signed\
+          \ 01\n  3082032E 30820216 A0030201 02020101 300D0609 2A864886 F70D0101 0D050030\n\
+          \  30312E30 2C060355 04030C25 494F532D 53656C66 2D536967 6E65642D 43657274\n\
+          \  69666963 6174652D 31333131 38343636 35301E17 0D323630 33323932 33313231\n\
+          \  315A170D 33363033 32383233 31323131 5A303031 2E302C06 03550403 0C25494F\n\
+          \  532D5365 6C662D53 69676E65 642D4365 72746966 69636174 652D3133 31313834\n\
+          \  36363530 82012230 0D06092A 864886F7 0D010101 05000382 010F0030 82010A02\n\
+          \  82010100 C8EF4650 2CC51670 6BFA7A49 B52521CE D235AEB7 AC13CA5C 02DC64C0\n\
+          \  C9D41F26 944BBC74 57D49611 02BAF0F3 A370CF95 A8563E8C 35A79FB2 7CB39D69\n\
+          \  5E282515 CD65F706 DBE30B1F 24FC747A CEED9244 215C940A 8F1E11BC ECBED237\n\
+          \  EC695EDC 37686285 A7972ADD 2BDAE0C0 30FDAAE2 56501C2B AA04ED85 8B2DF581\n\
+          \  712E5BB1 3538840E 324D72B2 186FF496 BF769F4B F7C2CD7E B46F3691 6FA9A09B\n\
+          \  B3A2D40D 6D76071C 427A98B6 B61CA142 5FE7141B DD68CC53 0599F2CC 8ED17AAD\n\
+          \  B3A1804E FE37AB7C 81D40638 933BE5BD CE4349A7 14F2949F C43BD95D 624D7869\n\
+          \  ADEB2D90 69702446 E666B614 253CD35C 555461BB 33577DC9 09AAFF5A 3DB4DB8F\n\
+          \  9D9269FB 02030100 01A35330 51301D06 03551D0E 04160414 6046A66E 6F64F274\n\
+          \  75BBD19C BCDFF5B7 2E18CA6A 301F0603 551D2304 18301680 146046A6 6E6F64F2\n\
+          \  7475BBD1 9CBCDFF5 B72E18CA 6A300F06 03551D13 0101FF04 05300301 01FF300D\n\
+          \  06092A86 4886F70D 01010D05 00038201 01004E2F 16714978 1D6E2454 145DB1D6\n\
+          \  3BDA44EA 6E4E208D 28B9619F 698F6F71 5023DFDA CA627253 DAFFDD8F 52ABC93F\n\
+          \  99596105 031B1359 1669303C B7AD4F82 232CDCF2 040690FE B81C7521 32654E28\n\
+          \  8056C30B F1E2F128 DA1822CC 2D6F33FA 0A224207 96E99D3C ED741597 97AC6904\n\
+          \  7AF19042 FE9411FC B91F8434 08973121 3BC5F262 C2EC522F 5485D0B4 F491235B\n\
+          \  2FC710B2 1804BCD9 15C7D77D 0F440287 6E820397 9CDEB2D9 7CD499B5 A4B3C982\n\
+          \  4F658B7D 8E1C2627 C715A9B4 11A8BE3D B84CCF73 98CFEE17 37B7EC28 882BF0E6\n\
+          \  B499B7E0 CC4BA7BB 8CCAF237 F8A96050 A2E5BED6 F23B6466 51738766 24B80365\n\
+          \  8ED0EFD6 B4EDA7D0 14D8B7D4 20AF9D6D 4D87\n  \tquit\n!\n!\nmemory free\
+          \ low-watermark processor 79497\n!\n!\nspanning-tree mode rapid-pvst\nspanning-tree\
+          \ extend system-id\nenable secret 9 $9$gzWgIZq0gUbonU$L8GW2CmDla7XZhlGo8lsi38JVwqNSp69Jf3ay7jO0eA\n\
+          !\nusername cisco secret 9 $9$w.Chax6infN1Ck$Jh8xbSQJoedqYyQ2Jt0uUXi2D78XrU35BsPTgFZcf8Q\n\
+          !\nvlan internal allocation policy ascending\n!\n!\n!\n!\n!\ninterface Port-channel1\n\
+          \ description #Link to DIST1#\n switchport trunk encapsulation dot1q\n switchport\
+          \ trunk native vlan 99\n switchport trunk allowed vlan 10,30\n switchport\
+          \ mode trunk\n ip arp inspection trust\n ip dhcp snooping limit rate 10\n\
+          \ ip dhcp snooping trust\n!\ninterface Port-channel2\n description #Link\
+          \ to DIST2#\n switchport trunk encapsulation dot1q\n switchport trunk native\
+          \ vlan 99\n switchport trunk allowed vlan 10,30\n switchport mode trunk\n\
+          \ ip arp inspection trust\n ip dhcp snooping limit rate 10\n ip dhcp snooping\
+          \ trust\n!\ninterface Ethernet0/0\n switchport trunk encapsulation dot1q\n\
+          \ switchport trunk native vlan 99\n switchport trunk allowed vlan 10,30\n\
+          \ switchport mode trunk\n bandwidth 1000000\n ip arp inspection trust\n\
+          \ channel-group 1 mode active\n ip dhcp snooping trust\n!\ninterface Ethernet0/1\n\
+          \ switchport trunk encapsulation dot1q\n switchport trunk native vlan 99\n\
+          \ switchport trunk allowed vlan 10,30\n switchport mode trunk\n bandwidth\
+          \ 1000000\n ip arp inspection trust\n channel-group 1 mode active\n ip dhcp\
+          \ snooping trust\n!\ninterface Ethernet0/2\n switchport trunk encapsulation\
+          \ dot1q\n switchport trunk native vlan 99\n switchport trunk allowed vlan\
+          \ 10,30\n switchport mode trunk\n bandwidth 1000000\n ip arp inspection\
+          \ trust\n channel-group 2 mode active\n ip dhcp snooping trust\n!\ninterface\
+          \ Ethernet0/3\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 10,30\n switchport mode\
+          \ trunk\n bandwidth 1000000\n ip arp inspection trust\n channel-group 2\
+          \ mode active\n ip dhcp snooping trust\n!\ninterface Ethernet1/0\n switchport\
+          \ access vlan 10\n switchport mode access\n switchport port-security maximum\
+          \ 2\n switchport port-security mac-address sticky\n switchport port-security\
+          \ mac-address sticky 5254.0010.ef81\n switchport port-security mac-address\
+          \ sticky 5254.006a.49bf\n switchport port-security\n bandwidth 1000000\n\
+          \ spanning-tree portfast\n spanning-tree bpduguard enable\n!\ninterface\
+          \ Ethernet1/1\n bandwidth 1000000\n!\ninterface Ethernet1/2\n bandwidth\
+          \ 1000000\n!\ninterface Ethernet1/3\n bandwidth 1000000\n!\nip forward-protocol\
+          \ nd\nip forward-protocol udp\n!\n!\nip http server\nip http secure-server\n\
+          ip ssh bulk-mode 131072\n!\nno logging btrace\n!\n!\n!\ncontrol-plane\n\
+          !\n!\n!\nline con 0\n exec-timeout 0 0\n logging synchronous\n login local\n\
+          line aux 0\nline vty 0 4\n exec-timeout 0 0\n login local\n transport input\
+          \ ssh\n!\n!\nend"
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: ACC1
+    node_definition: ioll2-xe
+    parameters: {}
+    ram: null
+    tags: []
+    x: -680
+    y: 200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: Ethernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: "Building configuration...\n\nCurrent configuration : 5311 bytes\n\
+          !\n! Last configuration change at 09:49:53 UTC Mon Jul 20 2026\n!\nversion\
+          \ 17.16\nservice timestamps debug datetime msec\nservice timestamps log\
+          \ datetime msec\n!\nhostname ACC2\n!\nboot-start-marker\nboot-end-marker\n\
+          !\n!\nlogging discriminator EXCESS severity drops 6 msg-body drops EXCESSCOLL\n\
+          logging buffered 50000\nno logging console\nno aaa new-model\n!\n!\n!\n\
+          !\n!\n!\n!\n!\n!\n!\n!\n!\n!\nip dhcp snooping vlan 20\nno ip dhcp snooping\
+          \ information option\nip dhcp snooping\nip audit notify log\nip audit po\
+          \ max-events 100\nip cef\nip arp inspection validate src-mac dst-mac ip\n\
+          login on-success log\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\ncrypto pki trustpoint\
+          \ TP-self-signed-131184666\n enrollment selfsigned\n subject-name cn=IOS-Self-Signed-Certificate-131184666\n\
+          \ revocation-check none\n rsakeypair TP-self-signed-131184666\n hash sha512\n\
+          !\n!\ncrypto pki certificate chain TP-self-signed-131184666\n certificate\
+          \ self-signed 01\n  3082032E 30820216 A0030201 02020101 300D0609 2A864886\
+          \ F70D0101 0D050030\n  30312E30 2C060355 04030C25 494F532D 53656C66 2D536967\
+          \ 6E65642D 43657274\n  69666963 6174652D 31333131 38343636 36301E17 0D323630\
+          \ 33323932 33313230\n  365A170D 33363033 32383233 31323036 5A303031 2E302C06\
+          \ 03550403 0C25494F\n  532D5365 6C662D53 69676E65 642D4365 72746966 69636174\
+          \ 652D3133 31313834\n  36363630 82012230 0D06092A 864886F7 0D010101 05000382\
+          \ 010F0030 82010A02\n  82010100 A9FA7D7F 2388E20E F0D733C5 1839F817 23897F8C\
+          \ D465D6A5 74396816\n  FA46FB53 4288BAB9 B8A43474 7DB5F142 9F30FAB0 E35D3C47\
+          \ BF67CF28 FE9E1CA3\n  0C0D1079 43C0DA4E FFDE355E D8893CA3 B138AF77 AC00ABCD\
+          \ FE1B5D89 E5A256F5\n  B27BB2B5 C9E1153B B2232F17 349F72E3 E9D41F2F 1FFB3A70\
+          \ 2CB73984 32130415\n  7F194631 ABE08F46 07C1D60F 58676329 10B48508 1B093577\
+          \ AB5F0A10 4E0B550F\n  D21C8407 6AAFB71C 2A29ADFE E6E7C7AE 9702C379 4FDCF30B\
+          \ 215F1BA9 F377397D\n  8109A232 CB27DA8E 5E002FDF A869C971 A492A7E2 12306CAA\
+          \ 4ECD5FAC A0EA9885\n  6739AB63 2D026F9B 0852A4E2 6046494B 038A774C 8D6D9CF1\
+          \ 761BFA2D 2EA11B21\n  030978C1 02030100 01A35330 51301D06 03551D0E 04160414\
+          \ 7004D234 9B6289C7\n  31691147 64D6F9DA F9D3315C 301F0603 551D2304 18301680\
+          \ 147004D2 349B6289\n  C7316911 4764D6F9 DAF9D331 5C300F06 03551D13 0101FF04\
+          \ 05300301 01FF300D\n  06092A86 4886F70D 01010D05 00038201 01007C44 495DC3E2\
+          \ 33E9886E FD52D0E7\n  238E8867 4FF28C69 27240E52 EA7975B1 86FDF171 93723E82\
+          \ EEBB2DA5 E13DE068\n  B98C8B9C 20F3A8F9 4F65CE04 6FA81E2E 6B70E558 06D8F361\
+          \ 8A72DD97 CCFFAD67\n  9C1CC13B 1A145AF1 F9F07ED6 C71D30A8 DB9E5BF2 92639272\
+          \ 632FA8E6 35ACF040\n  36E00B47 F9C63B77 C789CEAE 2EC33532 B3EA3AAE F192E052\
+          \ 8E3EA530 468F5C25\n  08E015CF 9A009B8A 3AE9B765 52EFCAC6 B62D3820 F6BB8530\
+          \ 7AE83E15 81E7F1F7\n  5E1A391C C3B9AF21 7DF49CC1 D71F1200 F802C568 9C964662\
+          \ 899BC8B2 66B37AB9\n  B6DC8720 13BA708F 535DCE3C 7722E379 28A5D7B4 8B42126B\
+          \ 41B0D393 A6886619\n  0C05E373 095CD498 8BEFDF1B 3001D222 AC97\n  \tquit\n\
+          !\n!\nmemory free low-watermark processor 79497\n!\n!\nspanning-tree mode\
+          \ rapid-pvst\nspanning-tree extend system-id\n!\n!\nvlan internal allocation\
+          \ policy ascending\n!\n!\n!\n!\n!\ninterface Port-channel1\n description\
+          \ #Link to DIST1#\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 20,30\n switchport mode\
+          \ trunk\n ip arp inspection trust\n ip dhcp snooping limit rate 10\n ip\
+          \ dhcp snooping trust\n!\ninterface Port-channel2\n description #Link to\
+          \ DIST2#\n switchport trunk encapsulation dot1q\n switchport trunk native\
+          \ vlan 99\n switchport trunk allowed vlan 20,30\n switchport mode trunk\n\
+          \ ip arp inspection trust\n ip dhcp snooping limit rate 10\n ip dhcp snooping\
+          \ trust\n!\ninterface Ethernet0/0\n switchport trunk encapsulation dot1q\n\
+          \ switchport trunk native vlan 99\n switchport trunk allowed vlan 20,30\n\
+          \ switchport mode trunk\n bandwidth 1000000\n ip arp inspection trust\n\
+          \ channel-group 1 mode active\n ip dhcp snooping trust\n!\ninterface Ethernet0/1\n\
+          \ switchport trunk encapsulation dot1q\n switchport trunk native vlan 99\n\
+          \ switchport trunk allowed vlan 20,30\n switchport mode trunk\n bandwidth\
+          \ 1000000\n ip arp inspection trust\n channel-group 1 mode active\n ip dhcp\
+          \ snooping trust\n!\ninterface Ethernet0/2\n switchport trunk encapsulation\
+          \ dot1q\n switchport trunk native vlan 99\n switchport trunk allowed vlan\
+          \ 20,30\n switchport mode trunk\n bandwidth 1000000\n ip arp inspection\
+          \ trust\n channel-group 2 mode active\n ip dhcp snooping trust\n!\ninterface\
+          \ Ethernet0/3\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 20,30\n switchport mode\
+          \ trunk\n bandwidth 1000000\n ip arp inspection trust\n channel-group 2\
+          \ mode active\n ip dhcp snooping trust\n!\ninterface Ethernet1/0\n switchport\
+          \ access vlan 20\n switchport mode access\n switchport port-security maximum\
+          \ 2\n switchport port-security mac-address sticky\n switchport port-security\
+          \ mac-address sticky 5254.0032.5145\n switchport port-security mac-address\
+          \ sticky 5254.00bf.5cee\n switchport port-security\n bandwidth 1000000\n\
+          \ spanning-tree portfast\n spanning-tree bpduguard enable\n!\ninterface\
+          \ Ethernet1/1\n bandwidth 1000000\n!\ninterface Ethernet1/2\n bandwidth\
+          \ 1000000\n!\ninterface Ethernet1/3\n bandwidth 1000000\n!\nip forward-protocol\
+          \ nd\nip forward-protocol udp\n!\n!\nip http server\nip http secure-server\n\
+          ip ssh bulk-mode 131072\n!\nno logging btrace\n!\n!\n!\ncontrol-plane\n\
+          !\n!\n!\nline con 0\n exec-timeout 0 0\n logging synchronous\nline aux 0\n\
+          line vty 0 4\n exec-timeout 0 0\n login\n transport input ssh\n!\n!\nend"
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: ACC2
+    node_definition: ioll2-xe
+    parameters: {}
+    ram: null
+    tags: []
+    x: -200
+    y: 200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: Ethernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: "Building configuration...\n\nCurrent configuration : 5351 bytes\n\
+          !\n! Last configuration change at 09:49:55 UTC Mon Jul 20 2026\n!\nversion\
+          \ 17.16\nservice timestamps debug datetime msec\nservice timestamps log\
+          \ datetime msec\n!\nhostname ACC3\n!\nboot-start-marker\nboot-end-marker\n\
+          !\n!\nlogging discriminator EXCESS severity drops 6 msg-body drops EXCESSCOLL\n\
+          logging buffered 50000\nno logging console\nno aaa new-model\n!\n!\n!\n\
+          !\n!\n!\n!\n!\n!\n!\n!\n!\n!\nip dhcp snooping vlan 30\nno ip dhcp snooping\
+          \ information option\nip dhcp snooping\nip audit notify log\nip audit po\
+          \ max-events 100\nip cef\nip arp inspection validate src-mac dst-mac ip\n\
+          login on-success log\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\ncrypto pki trustpoint\
+          \ TP-self-signed-131184667\n enrollment selfsigned\n subject-name cn=IOS-Self-Signed-Certificate-131184667\n\
+          \ revocation-check none\n rsakeypair TP-self-signed-131184667\n hash sha512\n\
+          !\n!\ncrypto pki certificate chain TP-self-signed-131184667\n certificate\
+          \ self-signed 01\n  3082032E 30820216 A0030201 02020101 300D0609 2A864886\
+          \ F70D0101 0D050030\n  30312E30 2C060355 04030C25 494F532D 53656C66 2D536967\
+          \ 6E65642D 43657274\n  69666963 6174652D 31333131 38343636 37301E17 0D323630\
+          \ 33323931 38303230\n  395A170D 33363033 32383138 30323039 5A303031 2E302C06\
+          \ 03550403 0C25494F\n  532D5365 6C662D53 69676E65 642D4365 72746966 69636174\
+          \ 652D3133 31313834\n  36363730 82012230 0D06092A 864886F7 0D010101 05000382\
+          \ 010F0030 82010A02\n  82010100 9CC4E3C2 5D2EE531 0BF38307 948545E5 1F433DD0\
+          \ 84AD7B4E 9C579E3C\n  F38DBBE6 ABDE09B7 503BE157 D013E6EF 56EF1E68 D2DB51C6\
+          \ C92AB427 79995D35\n  28F60A6C FB1764F1 1A66EA34 5F04ABA0 BA9FFE40 F5048C9D\
+          \ 04241477 27F36C96\n  2BBB60DF FCC02B2E E7525DE0 EC6007DD 8CB5B64B F329640E\
+          \ 02C9A67E B63D4EFC\n  392DCDC5 60B667E9 4D8159EB 31B7F811 52BBE0AC 62DA2F1A\
+          \ B7AA218C 471BFAB0\n  DF6AA186 CC7229D9 CED0A0BD E2BEDA75 C2A1D1B7 5CF267CE\
+          \ 995361BD 0CCABE50\n  E66C0D91 E263B40E E16E2534 E71F0F95 458F9DC5 09A7D76F\
+          \ 9389B450 DCE3CEA9\n  9B1FE758 66FC434E 8A35800B 13F7A74E 6B6D6FB8 AE68234B\
+          \ 06430736 19CF3786\n  BE70A379 02030100 01A35330 51301D06 03551D0E 04160414\
+          \ E27242FA 13ED3802\n  92F03FB2 E3DC7CB4 ABCF2BB2 301F0603 551D2304 18301680\
+          \ 14E27242 FA13ED38\n  0292F03F B2E3DC7C B4ABCF2B B2300F06 03551D13 0101FF04\
+          \ 05300301 01FF300D\n  06092A86 4886F70D 01010D05 00038201 01007D17 26EB4FCB\
+          \ A7DEA8A5 E9E26648\n  77633AF8 6B70B6B0 A1E142AE 65B67910 180B7C90 41C661AF\
+          \ A6555CDB 4CDCC1CD\n  27404889 BD9F614D FEEF826B DDD01E04 4DBD88C9 3B228732\
+          \ 05259055 78782587\n  0D888CBB 43A6A6AF 358CCDD5 31559187 DF25E003 2FDF1DB1\
+          \ B84634AF 3B7B5AFB\n  72A86ED6 9BD1A4D2 801420D5 38E76047 C251B576 E1DE8609\
+          \ E267EB07 5D56B00C\n  DCB15610 CAF0DA2E 1A327D61 262B5AF5 00B84846 002FDBBD\
+          \ 5352CC3E EA607F88\n  EE263C0F 398372D3 860302BE 0E98421D 3F8163F2 8FFBEE46\
+          \ E847D220 65EFAC63\n  94A37615 C1E6B344 139111BD 94CD23F2 E9ACF30A 105C727A\
+          \ A57BBECD 16C1D03A\n  F6BA9750 7E5C9FF1 E27325EC 6C10A1F1 1748\n  \tquit\n\
+          !\n!\nmemory free low-watermark processor 79497\n!\n!\nspanning-tree mode\
+          \ rapid-pvst\nspanning-tree extend system-id\n!\n!\nvlan internal allocation\
+          \ policy ascending\n!\n!\n!\n!\n!\ninterface Port-channel1\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 30\n switchport mode trunk\n ip arp inspection trust\n\
+          \ ip dhcp snooping limit rate 10\n ip dhcp snooping trust\n!\ninterface\
+          \ Port-channel2\n switchport trunk encapsulation dot1q\n switchport trunk\
+          \ native vlan 99\n switchport trunk allowed vlan 30\n switchport mode trunk\n\
+          \ ip arp inspection trust\n ip dhcp snooping limit rate 10\n ip dhcp snooping\
+          \ trust\n!\ninterface Ethernet0/0\n description #Link to DIST1#\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 30\n switchport mode trunk\n bandwidth 1000000\n ip\
+          \ arp inspection trust\n channel-group 1 mode active\n ip dhcp snooping\
+          \ trust\n!\ninterface Ethernet0/1\n description #Link to DIST1#\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 30\n switchport mode trunk\n bandwidth 1000000\n ip\
+          \ arp inspection trust\n channel-group 1 mode active\n ip dhcp snooping\
+          \ trust\n!\ninterface Ethernet0/2\n description #Link to DIST2#\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 30\n switchport mode trunk\n bandwidth 1000000\n ip\
+          \ arp inspection trust\n channel-group 2 mode active\n ip dhcp snooping\
+          \ trust\n!\ninterface Ethernet0/3\n description #Link to DIST2#\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 30\n switchport mode trunk\n bandwidth 1000000\n ip\
+          \ arp inspection trust\n channel-group 2 mode active\n ip dhcp snooping\
+          \ trust\n!\ninterface Ethernet1/0\n switchport access vlan 30\n switchport\
+          \ mode access\n switchport port-security maximum 2\n switchport port-security\
+          \ mac-address sticky\n switchport port-security mac-address sticky 5254.00b8.5181\n\
+          \ switchport port-security mac-address sticky 5254.00e0.b49f\n switchport\
+          \ port-security\n bandwidth 1000000\n spanning-tree portfast\n spanning-tree\
+          \ bpduguard enable\n!\ninterface Ethernet1/1\n bandwidth 1000000\n!\ninterface\
+          \ Ethernet1/2\n bandwidth 1000000\n!\ninterface Ethernet1/3\n bandwidth\
+          \ 1000000\n!\nip forward-protocol nd\nip forward-protocol udp\n!\n!\nip\
+          \ http server\nip http secure-server\nip ssh bulk-mode 131072\n!\nno logging\
+          \ btrace\n!\n!\n!\ncontrol-plane\n!\n!\n!\nline con 0\n exec-timeout 0 0\n\
+          \ logging synchronous\nline aux 0\nline vty 0 4\n exec-timeout 0 0\n login\n\
+          \ transport input ssh\n!\n!\nend"
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: ACC3
+    node_definition: ioll2-xe
+    parameters: {}
+    ram: null
+    tags: []
+    x: 320
+    y: 200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: Ethernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname PC1
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: PC1
+    node_definition: desktop
+    parameters: {}
+    ram: null
+    tags: []
+    x: -680
+    y: 360
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname PC2
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: PC2
+    node_definition: desktop
+    parameters: {}
+    ram: null
+    tags: []
+    x: -200
+    y: 360
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname PC3
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n7
+    image_definition: null
+    label: PC3
+    node_definition: desktop
+    parameters: {}
+    ram: null
+    tags: []
+    x: 320
+    y: 360
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname PC4
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n8
+    image_definition: null
+    label: PC4
+    node_definition: desktop
+    parameters: {}
+    ram: null
+    tags: []
+    x: 800
+    y: 360
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: iosxe_config.txt
+        content: "Building configuration...\n\nCurrent configuration : 8283 bytes\n\
+          !\n! Last configuration change at 19:52:31 UTC Thu Jul 23 2026 by cisco\n\
+          !\nversion 17.3\nservice timestamps debug datetime msec\nservice timestamps\
+          \ log datetime msec\nservice call-home\nplatform qfp utilization monitor\
+          \ load 80\nplatform punt-keepalive disable-kernel-core\nplatform console\
+          \ serial\n!\nhostname CORE1\n!\nboot-start-marker\nboot-end-marker\n!\n\
+          !\nno logging console\nenable secret 9 $9$trBF3EfNHSfOz.$Cx.5Cn2P/YrZp6BiiyxOyFcv5yWVXG9aPfTc0n/iAtI\n\
+          !\nno aaa new-model\n!\n!\n!\n!\n!\n!\n!\nip dhcp excluded-address 10.0.10.1\
+          \ 10.0.10.10\nip dhcp excluded-address 10.0.20.1 10.0.20.10\nip dhcp excluded-address\
+          \ 10.0.30.1 10.0.30.10\nip dhcp excluded-address 10.0.40.1 10.0.40.10\n\
+          !\nip dhcp pool DATA\n network 10.0.10.0 255.255.255.0\n default-router\
+          \ 10.0.10.1\n dns-server 10.0.40.12\n domain-name local.lab\n!\nip dhcp\
+          \ pool MGMT\n network 10.0.30.0 255.255.255.0\n default-router 10.0.30.1\n\
+          \ dns-server 10.0.40.12\n domain-name local.lab\n!\nip dhcp pool GUESTS\n\
+          \ network 10.0.20.0 255.255.255.0\n default-router 10.0.20.1\n dns-server\
+          \ 10.0.40.12\n domain-name local.lab\n!\nip dhcp pool SERVERS\n network\
+          \ 10.0.40.0 255.255.255.0\n dns-server 10.0.40.12\n default-router 10.0.40.1\n\
+          \ domain-name local.lab\n!\n!\n!\nlogin on-success log\n!\n!\n!\n!\n!\n\
+          !\n!\nsubscriber templating\n!\n!\n!\n!\n!\n!\nmultilink bundle-name authenticated\n\
+          !\ndomain local.lab\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\ncrypto pki\
+          \ trustpoint SLA-TrustPoint\n enrollment pkcs12\n revocation-check crl\n\
+          !\ncrypto pki trustpoint TP-self-signed-1868736617\n enrollment selfsigned\n\
+          \ subject-name cn=IOS-Self-Signed-Certificate-1868736617\n revocation-check\
+          \ none\n rsakeypair TP-self-signed-1868736617\n!\n!\ncrypto pki certificate\
+          \ chain SLA-TrustPoint\n certificate ca 01\n  30820321 30820209 A0030201\
+          \ 02020101 300D0609 2A864886 F70D0101 0B050030\n  32310E30 0C060355 040A1305\
+          \ 43697363 6F312030 1E060355 04031317 43697363\n  6F204C69 63656E73 696E6720\
+          \ 526F6F74 20434130 1E170D31 33303533 30313934\n  3834375A 170D3338 30353330\
+          \ 31393438 34375A30 32310E30 0C060355 040A1305\n  43697363 6F312030 1E060355\
+          \ 04031317 43697363 6F204C69 63656E73 696E6720\n  526F6F74 20434130 82012230\
+          \ 0D06092A 864886F7 0D010101 05000382 010F0030\n  82010A02 82010100 A6BCBD96\
+          \ 131E05F7 145EA72C 2CD686E6 17222EA1 F1EFF64D\n  CBB4C798 212AA147 C655D8D7\
+          \ 9471380D 8711441E 1AAF071A 9CAE6388 8A38E520\n  1C394D78 462EF239 C659F715\
+          \ B98C0A59 5BBB5CBD 0CFEBEA3 700A8BF7 D8F256EE\n  4AA4E80D DB6FD1C9 60B1FD18\
+          \ FFC69C96 6FA68957 A2617DE7 104FDC5F EA2956AC\n  7390A3EB 2B5436AD C847A2C5\
+          \ DAB553EB 69A9A535 58E9F3E3 C0BD23CF 58BD7188\n  68E69491 20F320E7 948E71D7\
+          \ AE3BCC84 F10684C7 4BC8E00F 539BA42B 42C68BB7\n  C7479096 B4CB2D62 EA2F505D\
+          \ C7B062A4 6811D95B E8250FC4 5D5D5FB8 8F27D191\n  C55F0D76 61F9A4CD 3D992327\
+          \ A8BB03BD 4E6D7069 7CBADF8B DF5F4368 95135E44\n  DFC7C6CF 04DD7FD1 02030100\
+          \ 01A34230 40300E06 03551D0F 0101FF04 04030201\n  06300F06 03551D13 0101FF04\
+          \ 05300301 01FF301D 0603551D 0E041604 1449DC85\n  4B3D31E5 1B3E6A17 606AF333\
+          \ 3D3B4C73 E8300D06 092A8648 86F70D01 010B0500\n  03820101 00507F24 D3932A66\
+          \ 86025D9F E838AE5C 6D4DF6B0 49631C78 240DA905\n  604EDCDE FF4FED2B 77FC460E\
+          \ CD636FDB DD44681E 3A5673AB 9093D3B1 6C9E3D8B\n  D98987BF E40CBD9E 1AECA0C2\
+          \ 2189BB5C 8FA85686 CD98B646 5575B146 8DFC66A8\n  467A3DF4 4D565700 6ADF0F0D\
+          \ CF835015 3C04FF7C 21E878AC 11BA9CD2 55A9232C\n  7CA7B7E6 C1AF74F6 152E99B7\
+          \ B1FCF9BB E973DE7F 5BDDEB86 C71E3B49 1765308B\n  5FB0DA06 B92AFE7F 494E8A9E\
+          \ 07B85737 F3A58BE1 1A48A229 C37C1E69 39F08678\n  80DDCD16 D6BACECA EEBC7CF9\
+          \ 8428787B 35202CDC 60E4616A B623CDBD 230E3AFB\n  418616A9 4093E049 4D10AB75\
+          \ 27E86F73 932E35B5 8862FDAE 0275156F 719BB2F0\n  D697DF7F 28\n  \tquit\n\
+          crypto pki certificate chain TP-self-signed-1868736617\n certificate self-signed\
+          \ 01\n  30820330 30820218 A0030201 02020101 300D0609 2A864886 F70D0101 05050030\n\
+          \  31312F30 2D060355 04031326 494F532D 53656C66 2D536967 6E65642D 43657274\n\
+          \  69666963 6174652D 31383638 37333636 3137301E 170D3236 30333239 31383033\n\
+          \  35345A17 0D333630 33323831 38303335 345A3031 312F302D 06035504 03132649\n\
+          \  4F532D53 656C662D 5369676E 65642D43 65727469 66696361 74652D31 38363837\n\
+          \  33363631 37308201 22300D06 092A8648 86F70D01 01010500 0382010F 00308201\n\
+          \  0A028201 0100A215 0050ADEE 95D8E245 63705138 73A336F9 3042BA83 639F8F63\n\
+          \  CA875DA5 389F8230 C010707E 6EA5F9AF 9021CBD2 DC5EB4D7 75749528 9A45C5D8\n\
+          \  CE8FCB27 606F90F3 68EEE243 A92BCC18 354E7C8C 444730CB 4FB30CCF 12FA1667\n\
+          \  46957373 D5CEF7E4 AD1FBC48 B57DD640 9BC1FAD4 5834954E 9C012CCD 10D52AA0\n\
+          \  EAD9063B 28F9511D 9CEB0B86 D0692CBF 88EB8BCF 080BEA9A D91F44C3 ED0D5F0B\n\
+          \  C5AB0CEC 47D285EE AF3CB5C8 26D681D6 DE922A83 DB95CA3E C6F83C92 38B4F62C\n\
+          \  458C7A10 FF5C90DF 8B32D43A BA3C79B8 DC2E5AB3 9D0F51F7 041CAC88 3C42CAA8\n\
+          \  05B36F08 F7EBE58D D0FD6F47 E961314C C0FD8EFC 4C841662 C873EFA3 74A65534\n\
+          \  B92CAC81 23270203 010001A3 53305130 0F060355 1D130101 FF040530 030101FF\n\
+          \  301F0603 551D2304 18301680 14BFC173 129C57D7 0D26DB76 69EF2942 13A24F7F\n\
+          \  A0301D06 03551D0E 04160414 BFC17312 9C57D70D 26DB7669 EF294213 A24F7FA0\n\
+          \  300D0609 2A864886 F70D0101 05050003 82010100 233E770F 797D5B4C C62BB043\n\
+          \  9F43FC0E E35C1612 5BE59DA0 B5BA10CB C87D5DA4 4D05C145 D800FE11 59CD55D4\n\
+          \  78246CC6 2C595C87 EF537A6B 3DB3047A 21038CE4 88AB71F8 5B8B712C 1ABDE339\n\
+          \  D313E8B6 92D61A21 AAD28340 90E27A03 DC01E2C8 5E4ACB43 2C523E93 D6024663\n\
+          \  47592302 94796E7B 2C8F2D39 4D1E0F8E 5E7D4F76 8C039F92 AB30F358 97877770\n\
+          \  8948568F A4926109 5FF4E6AD F11FDD49 31612593 005C1BCA 9EA09150 A28E1DD4\n\
+          \  21F472EC 73195ACA DBB63BF8 E6B5C983 07BDF89D 4D9676F2 C616AFD5 FAA4D8C2\n\
+          \  2874E830 F639EF79 B405DF9A 794DD034 70C1142B A153A2D1 6A227A6E B547B843\n\
+          \  03E0479B 738D0531 E1D89E51 E5AC875C D08D058F\n  \tquit\n!\ncrypto pki\
+          \ certificate pool\n cabundle nvram:ios_core.p7b\n!\nlicense udi pid CSR1000V\
+          \ sn 9AY70BB6CRS\ndiagnostic bootup level minimal\nmemory free low-watermark\
+          \ processor 71464\n!\n!\nspanning-tree extend system-id\n!\nusername cisco\
+          \ secret 9 $9$jxAS94Sb7hpeGU$a3zgKGw8zKEUOzHSPaE9XHv5o6P.SYyl4q1MiAhadvQ\n\
+          !\nredundancy\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n\
+          !\n!\n!\n!\n!\n!\ninterface Loopback0\n ip address 1.1.1.1 255.255.255.255\n\
+          !\ninterface Port-channel1\n description #Link to DIST1#\n ip address 10.0.12.1\
+          \ 255.255.255.252\n ip ospf network point-to-point\n no negotiation auto\n\
+          \ no mop enabled\n no mop sysid\n!\ninterface Port-channel2\n ip address\
+          \ 10.0.12.5 255.255.255.252\n ip ospf network point-to-point\n no negotiation\
+          \ auto\n no mop enabled\n no mop sysid\n!\ninterface GigabitEthernet1\n\
+          \ no ip address\n negotiation auto\n no mop enabled\n no mop sysid\n channel-group\
+          \ 1 mode active\n!\ninterface GigabitEthernet2\n no ip address\n negotiation\
+          \ auto\n no mop enabled\n no mop sysid\n channel-group 1 mode active\n!\n\
+          interface GigabitEthernet3\n no ip address\n negotiation auto\n no mop enabled\n\
+          \ no mop sysid\n channel-group 2 mode active\n!\ninterface GigabitEthernet4\n\
+          \ no ip address\n negotiation auto\n no mop enabled\n no mop sysid\n channel-group\
+          \ 2 mode active\n!\ninterface GigabitEthernet5\n ip address 10.0.12.17 255.255.255.252\n\
+          \ ip ospf network point-to-point\n negotiation auto\n no mop enabled\n no\
+          \ mop sysid\n!\ninterface GigabitEthernet6\n ip address 10.0.12.22 255.255.255.252\n\
+          \ negotiation auto\n no mop enabled\n no mop sysid\n!\ninterface GigabitEthernet7\n\
+          \ no ip address\n shutdown\n negotiation auto\n no mop enabled\n no mop\
+          \ sysid\n!\ninterface GigabitEthernet8\n no ip address\n shutdown\n negotiation\
+          \ auto\n no mop enabled\n no mop sysid\n!\nrouter ospf 1\n network 1.1.1.1\
+          \ 0.0.0.0 area 0\n network 10.0.12.1 0.0.0.0 area 0\n network 10.0.12.5\
+          \ 0.0.0.0 area 0\n network 10.0.12.17 0.0.0.0 area 0\n default-information\
+          \ originate\n!\nip forward-protocol nd\nno ip http server\nip http secure-server\n\
+          !\nip route 0.0.0.0 0.0.0.0 10.0.12.21\n!\n!\n!\n!\n!\n!\n!\ncontrol-plane\n\
+          !\n!\n!\n!\n!\n!\nline con 0\n exec-timeout 0 0\n logging synchronous\n\
+          \ login local\n stopbits 1\nline vty 0\n exec-timeout 0 0\n login local\n\
+          \ transport input ssh\nline vty 1\n exec-timeout 0 0\n login local\n length\
+          \ 0\n transport input ssh\nline vty 2 4\n exec-timeout 0 0\n login local\n\
+          \ transport input ssh\nline vty 5 15\n login local\n transport input ssh\n\
+          !\ncall-home\n ! If contact email address in call-home is configured as\
+          \ sch-smart-licensing@cisco.com\n ! the email address configured in Cisco\
+          \ Smart License Portal will be used as contact email address to send SCH\
+          \ notifications.\n contact-email-addr sch-smart-licensing@cisco.com\n profile\
+          \ \"CiscoTAC-1\"\n  active\n  destination transport-method http\n!\n!\n\
+          !\n!\n!\nend"
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n9
+    image_definition: null
+    label: CORE1
+    node_definition: csr1000v
+    parameters: {}
+    ram: null
+    tags: []
+    x: -200
+    y: -560
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet1
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet2
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet3
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet4
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet5
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet6
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet7
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet8
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: iosxe_config.txt
+        content: "Building configuration...\n\nCurrent configuration : 7480 bytes\n\
+          !\n! Last configuration change at 19:53:06 UTC Thu Jul 23 2026 by cisco\n\
+          !\nversion 17.3\nservice timestamps debug datetime msec\nservice timestamps\
+          \ log datetime msec\nservice call-home\nplatform qfp utilization monitor\
+          \ load 80\nplatform punt-keepalive disable-kernel-core\nplatform console\
+          \ serial\n!\nhostname CORE2\n!\nboot-start-marker\nboot-end-marker\n!\n\
+          !\nno logging console\nenable secret 9 $9$qLmMdzWh7REekk$X/5C2nb571HLYN6lOTxTjfHg.7s9eF/CapwMTPHeQLg\n\
+          !\nno aaa new-model\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nlogin on-success log\n\
+          !\n!\n!\n!\n!\n!\n!\nsubscriber templating\n!\n!\n!\n!\n!\n!\nmultilink\
+          \ bundle-name authenticated\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n\
+          !\ncrypto pki trustpoint SLA-TrustPoint\n enrollment pkcs12\n revocation-check\
+          \ crl\n!\ncrypto pki trustpoint TP-self-signed-603635212\n enrollment selfsigned\n\
+          \ subject-name cn=IOS-Self-Signed-Certificate-603635212\n revocation-check\
+          \ none\n rsakeypair TP-self-signed-603635212\n!\n!\ncrypto pki certificate\
+          \ chain SLA-TrustPoint\n certificate ca 01\n  30820321 30820209 A0030201\
+          \ 02020101 300D0609 2A864886 F70D0101 0B050030\n  32310E30 0C060355 040A1305\
+          \ 43697363 6F312030 1E060355 04031317 43697363\n  6F204C69 63656E73 696E6720\
+          \ 526F6F74 20434130 1E170D31 33303533 30313934\n  3834375A 170D3338 30353330\
+          \ 31393438 34375A30 32310E30 0C060355 040A1305\n  43697363 6F312030 1E060355\
+          \ 04031317 43697363 6F204C69 63656E73 696E6720\n  526F6F74 20434130 82012230\
+          \ 0D06092A 864886F7 0D010101 05000382 010F0030\n  82010A02 82010100 A6BCBD96\
+          \ 131E05F7 145EA72C 2CD686E6 17222EA1 F1EFF64D\n  CBB4C798 212AA147 C655D8D7\
+          \ 9471380D 8711441E 1AAF071A 9CAE6388 8A38E520\n  1C394D78 462EF239 C659F715\
+          \ B98C0A59 5BBB5CBD 0CFEBEA3 700A8BF7 D8F256EE\n  4AA4E80D DB6FD1C9 60B1FD18\
+          \ FFC69C96 6FA68957 A2617DE7 104FDC5F EA2956AC\n  7390A3EB 2B5436AD C847A2C5\
+          \ DAB553EB 69A9A535 58E9F3E3 C0BD23CF 58BD7188\n  68E69491 20F320E7 948E71D7\
+          \ AE3BCC84 F10684C7 4BC8E00F 539BA42B 42C68BB7\n  C7479096 B4CB2D62 EA2F505D\
+          \ C7B062A4 6811D95B E8250FC4 5D5D5FB8 8F27D191\n  C55F0D76 61F9A4CD 3D992327\
+          \ A8BB03BD 4E6D7069 7CBADF8B DF5F4368 95135E44\n  DFC7C6CF 04DD7FD1 02030100\
+          \ 01A34230 40300E06 03551D0F 0101FF04 04030201\n  06300F06 03551D13 0101FF04\
+          \ 05300301 01FF301D 0603551D 0E041604 1449DC85\n  4B3D31E5 1B3E6A17 606AF333\
+          \ 3D3B4C73 E8300D06 092A8648 86F70D01 010B0500\n  03820101 00507F24 D3932A66\
+          \ 86025D9F E838AE5C 6D4DF6B0 49631C78 240DA905\n  604EDCDE FF4FED2B 77FC460E\
+          \ CD636FDB DD44681E 3A5673AB 9093D3B1 6C9E3D8B\n  D98987BF E40CBD9E 1AECA0C2\
+          \ 2189BB5C 8FA85686 CD98B646 5575B146 8DFC66A8\n  467A3DF4 4D565700 6ADF0F0D\
+          \ CF835015 3C04FF7C 21E878AC 11BA9CD2 55A9232C\n  7CA7B7E6 C1AF74F6 152E99B7\
+          \ B1FCF9BB E973DE7F 5BDDEB86 C71E3B49 1765308B\n  5FB0DA06 B92AFE7F 494E8A9E\
+          \ 07B85737 F3A58BE1 1A48A229 C37C1E69 39F08678\n  80DDCD16 D6BACECA EEBC7CF9\
+          \ 8428787B 35202CDC 60E4616A B623CDBD 230E3AFB\n  418616A9 4093E049 4D10AB75\
+          \ 27E86F73 932E35B5 8862FDAE 0275156F 719BB2F0\n  D697DF7F 28\n  \tquit\n\
+          crypto pki certificate chain TP-self-signed-603635212\n certificate self-signed\
+          \ 01\n  3082032E 30820216 A0030201 02020101 300D0609 2A864886 F70D0101 05050030\n\
+          \  30312E30 2C060355 04031325 494F532D 53656C66 2D536967 6E65642D 43657274\n\
+          \  69666963 6174652D 36303336 33353231 32301E17 0D323630 33323931 38303335\n\
+          \  385A170D 33363033 32383138 30333538 5A303031 2E302C06 03550403 1325494F\n\
+          \  532D5365 6C662D53 69676E65 642D4365 72746966 69636174 652D3630 33363335\n\
+          \  32313230 82012230 0D06092A 864886F7 0D010101 05000382 010F0030 82010A02\n\
+          \  82010100 A61BA324 24E9DA0A DDAF755C C8B2D7FF 016E7BB4 1D4AC8ED 1F2EDB15\n\
+          \  E2FE8E1A 47B4F3A8 1F010F80 5E64FD17 57783FBF DF9845A3 38A11D79 BEA63D3E\n\
+          \  A18DA3FB 3A24E568 89A773FC E424EB13 0A6E0663 6B190F1F 5BFB31D6 03400DBD\n\
+          \  371CC3BD B36DB858 096841CA 6D79EBE3 C03CD413 DC349AEA A376B8D1 3FA7F654\n\
+          \  7468197B 3094A673 E9B6E4FF 285CAFE8 7355135B E8CA11BC 67F0E010 4221CE59\n\
+          \  726A4500 A229B05D EFDEC7B8 D39860D9 1CD30BEF D51DDD0A 0309CA1E 5F3E5D9B\n\
+          \  9F325031 8084B104 D7A81D26 0CF10EE4 85BEF759 756DF228 FFC08285 5A780B86\n\
+          \  2E7F1E5B C2C9D128 16347971 02BF6735 661D933B BDC70AD9 3FE8D662 30F36F40\n\
+          \  39E774F7 02030100 01A35330 51300F06 03551D13 0101FF04 05300301 01FF301F\n\
+          \  0603551D 23041830 168014CD E62B9723 506E5FDD 32E97C27 C3BB1222 C3CC4930\n\
+          \  1D060355 1D0E0416 0414CDE6 2B972350 6E5FDD32 E97C27C3 BB1222C3 CC49300D\n\
+          \  06092A86 4886F70D 01010505 00038201 010080C2 1D5F2F01 5C47638E C5C37D60\n\
+          \  C7B2F63F 52510C08 FBD70995 091EFD5C 8F151F00 D107493F 8C1E5320 EB90251A\n\
+          \  60BC662A 7BC83BF0 CCE6A144 3B7E6697 CA52F49E C710E598 A3E2E6F2 5EB583BB\n\
+          \  F210EE93 14711911 F42B1CE7 0282F821 01F1B46D 5B18961C C2E2811C 65A5A046\n\
+          \  0420A804 FBFB84F2 59D0DACB FDB2B891 2BA37618 D2D755BE FAE528A3 B09ADC04\n\
+          \  14875CAA 676AC518 45E7C29C 44DF2727 B32AC7C2 4435B98E 342F2C8F FD5F67BA\n\
+          \  AB29EDBD 2291DCF7 A9277FED C064D14B BFA78A06 EBD7E578 8569074B DF43957C\n\
+          \  D481CCBC 541F12B1 D0671375 55020A67 62F57843 E2BC800A 65BE7FBB 21F3824B\n\
+          \  B69501FD 86B83028 AA0E660D 9E407320 7D8D\n  \tquit\n!\nlicense udi pid\
+          \ CSR1000V sn 9VSKZHYOTPC\ndiagnostic bootup level minimal\nmemory free\
+          \ low-watermark processor 71464\n!\n!\nspanning-tree extend system-id\n\
+          !\nusername cisco secret 9 $9$2dPmCVz1i3KtpE$vAKMnG66Vv8Xm97vfZ8mMkMNzilZ7w9GyzE2R8kw3g.\n\
+          !\nredundancy\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n\
+          !\n!\n!\n!\n!\n!\ninterface Loopback0\n ip address 2.2.2.2 255.255.255.255\n\
+          !\ninterface Port-channel1\n ip address 10.0.12.9 255.255.255.252\n ip ospf\
+          \ network point-to-point\n no negotiation auto\n no mop enabled\n no mop\
+          \ sysid\n!\ninterface Port-channel2\n ip address 10.0.12.13 255.255.255.252\n\
+          \ ip ospf network point-to-point\n no negotiation auto\n no mop enabled\n\
+          \ no mop sysid\n!\ninterface GigabitEthernet1\n no ip address\n negotiation\
+          \ auto\n no mop enabled\n no mop sysid\n channel-group 2 mode active\n!\n\
+          interface GigabitEthernet2\n no ip address\n negotiation auto\n no mop enabled\n\
+          \ no mop sysid\n channel-group 2 mode active\n!\ninterface GigabitEthernet3\n\
+          \ no ip address\n negotiation auto\n no mop enabled\n no mop sysid\n channel-group\
+          \ 1 mode active\n!\ninterface GigabitEthernet4\n no ip address\n negotiation\
+          \ auto\n no mop enabled\n no mop sysid\n channel-group 1 mode active\n!\n\
+          interface GigabitEthernet5\n ip address 10.0.12.18 255.255.255.252\n ip\
+          \ ospf network point-to-point\n negotiation auto\n no mop enabled\n no mop\
+          \ sysid\n!\ninterface GigabitEthernet6\n ip address 10.0.12.26 255.255.255.252\n\
+          \ negotiation auto\n no mop enabled\n no mop sysid\n!\ninterface GigabitEthernet7\n\
+          \ no ip address\n shutdown\n negotiation auto\n no mop enabled\n no mop\
+          \ sysid\n!\ninterface GigabitEthernet8\n no ip address\n shutdown\n negotiation\
+          \ auto\n no mop enabled\n no mop sysid\n!\nrouter ospf 1\n network 2.2.2.2\
+          \ 0.0.0.0 area 0\n network 10.0.12.9 0.0.0.0 area 0\n network 10.0.12.13\
+          \ 0.0.0.0 area 0\n network 10.0.12.18 0.0.0.0 area 0\n!\nip forward-protocol\
+          \ nd\nno ip http server\nip http secure-server\n!\nip route 0.0.0.0 0.0.0.0\
+          \ 10.0.12.41\nip route 0.0.0.0 0.0.0.0 10.0.12.25\n!\n!\n!\n!\n!\n!\n!\n\
+          control-plane\n!\n!\n!\n!\n!\n!\nline con 0\n exec-timeout 0 0\n logging\
+          \ synchronous\n login local\n stopbits 1\nline vty 0\n exec-timeout 0 0\n\
+          \ login local\n transport input ssh\nline vty 1\n exec-timeout 0 0\n login\
+          \ local\n length 0\n transport input ssh\nline vty 2 4\n exec-timeout 0\
+          \ 0\n login local\n transport input ssh\nline vty 5 15\n login local\n transport\
+          \ input ssh\n!\ncall-home\n ! If contact email address in call-home is configured\
+          \ as sch-smart-licensing@cisco.com\n ! the email address configured in Cisco\
+          \ Smart License Portal will be used as contact email address to send SCH\
+          \ notifications.\n contact-email-addr sch-smart-licensing@cisco.com\n profile\
+          \ \"CiscoTAC-1\"\n  active\n  destination transport-method http\n!\n!\n\
+          !\n!\n!\nend"
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n10
+    image_definition: null
+    label: CORE2
+    node_definition: csr1000v
+    parameters: {}
+    ram: null
+    tags: []
+    x: 400
+    y: -560
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet1
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet2
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet3
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet4
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet5
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet6
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet7
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet8
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n11
+    image_definition: null
+    label: ext-conn-0
+    node_definition: external_connector
+    parameters: {}
+    ram: null
+    tags: []
+    x: 120
+    y: -1000
+    interfaces:
+      - id: i0
+        label: port
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: "Building configuration...\n\nCurrent configuration : 5358 bytes\n\
+          !\n! Last configuration change at 15:08:32 UTC Wed Apr 1 2026\n!\nversion\
+          \ 17.16\nservice timestamps debug datetime msec\nservice timestamps log\
+          \ datetime msec\n!\nhostname ACC4\n!\nboot-start-marker\nboot-end-marker\n\
+          !\n!\nlogging discriminator EXCESS severity drops 6 msg-body drops EXCESSCOLL\n\
+          logging buffered 50000\nno logging console\nno aaa new-model\n!\n!\n!\n\
+          !\n!\n!\n!\n!\n!\n!\n!\n!\n!\nip dhcp snooping vlan 40\nno ip dhcp snooping\
+          \ information option\nip dhcp snooping\nip audit notify log\nip audit po\
+          \ max-events 100\nip cef\nip arp inspection vlan 40\nip arp inspection validate\
+          \ src-mac dst-mac ip\nlogin on-success log\nno ipv6 cef\n!\n!\n!\n!\n!\n\
+          !\n!\n!\ncrypto pki trustpoint TP-self-signed-131184668\n enrollment selfsigned\n\
+          \ subject-name cn=IOS-Self-Signed-Certificate-131184668\n revocation-check\
+          \ none\n rsakeypair TP-self-signed-131184668\n hash sha512\n!\n!\ncrypto\
+          \ pki certificate chain TP-self-signed-131184668\n certificate self-signed\
+          \ 01\n  3082032E 30820216 A0030201 02020101 300D0609 2A864886 F70D0101 0D050030\n\
+          \  30312E30 2C060355 04030C25 494F532D 53656C66 2D536967 6E65642D 43657274\n\
+          \  69666963 6174652D 31333131 38343636 38301E17 0D323630 33323931 38303231\n\
+          \  325A170D 33363033 32383138 30323132 5A303031 2E302C06 03550403 0C25494F\n\
+          \  532D5365 6C662D53 69676E65 642D4365 72746966 69636174 652D3133 31313834\n\
+          \  36363830 82012230 0D06092A 864886F7 0D010101 05000382 010F0030 82010A02\n\
+          \  82010100 94624079 A3B73B8A 4E255C17 11E8CAB7 15D2E44B 559C6ADA 2C3F9EE8\n\
+          \  6840EBAB 6CAE7685 2622F847 615051EF DBEB75F2 2696F660 BE515B5B 723C9FC5\n\
+          \  8DD4179E 883FF678 83BB69A8 D8CB3CC4 7EFDE3C9 1ECFCFED 2A72FBB0 5C2EF59F\n\
+          \  F077165A 588A3535 3E94EF8D 21DE8D93 AEB956FA 98C1E398 32A56C13 DCA62656\n\
+          \  06E8E187 98F6796F 99E31277 A890321A 3D5BD2E1 C59AF205 60924F9D BAB60F1A\n\
+          \  C9650DC7 CB22CB12 383FAA0B EFE46675 71B685C1 982C98D7 096727A8 0ED0FDE7\n\
+          \  8990C38E 0E68BE51 F9FA44DB 0E6FF139 81E7C427 CF2ED548 92889FF7 0FCA24C7\n\
+          \  5B83802F 19BABF64 FD4F63FC D4F243A9 5D8FE830 AB64D618 16FE69A5 1574ABAE\n\
+          \  2F0EAE7D 02030100 01A35330 51301D06 03551D0E 04160414 6A8874CD A64196AB\n\
+          \  FF87EAE6 252434C2 CD106087 301F0603 551D2304 18301680 146A8874 CDA64196\n\
+          \  ABFF87EA E6252434 C2CD1060 87300F06 03551D13 0101FF04 05300301 01FF300D\n\
+          \  06092A86 4886F70D 01010D05 00038201 01003A33 0A020192 1074D6A4 C9C33BCC\n\
+          \  BCDBCBE2 79330E38 838E2069 4EB3C91F 5DA92D2E 95AC3B5C 116A5764 7DC71ECE\n\
+          \  4345D88C 6F277578 CEB565A2 3B2C37D4 3EE07595 1C0F7E03 CFE59A8E 23DD9DDF\n\
+          \  55D023D4 E49A025A 5E36CFB4 FD8D75F2 B00A0700 19E91BE3 0EDE51C9 E0C1F54A\n\
+          \  EEF1F936 931FC30D 90EC171F 6921CE72 F7E11643 DDA7E027 FD029F65 49C779C0\n\
+          \  FC1F0E7D CB584CD9 B85873A3 D226955D DC59BA02 41542442 562DE1CE 3585AAE7\n\
+          \  E51EAA6A DD9C708F EDFDE7CE 4B2AEBAE F5424BA7 FE50627A B1B0A12F 4EFB695A\n\
+          \  0713CB43 50224A48 B9AF31D4 F66DBF11 8AFAA62D 56F6CC6F 84E7FA00 AD20205F\n\
+          \  65E4BE5D 40B265A9 54696276 E088F3A9 EA66\n  \tquit\n!\n!\nmemory free\
+          \ low-watermark processor 79497\n!\n!\nspanning-tree mode rapid-pvst\nspanning-tree\
+          \ extend system-id\n!\n!\nvlan internal allocation policy ascending\n!\n\
+          !\n!\n!\n!\ninterface Port-channel1\n switchport trunk encapsulation dot1q\n\
+          \ switchport trunk native vlan 99\n switchport trunk allowed vlan 30,40\n\
+          \ switchport mode trunk\n ip arp inspection trust\n ip dhcp snooping limit\
+          \ rate 10\n ip dhcp snooping trust\n!\ninterface Port-channel2\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 30,40\n switchport mode trunk\n ip arp inspection trust\n\
+          \ ip dhcp snooping limit rate 10\n ip dhcp snooping trust\n!\ninterface\
+          \ Ethernet0/0\n description #link to DIST1#\n switchport trunk encapsulation\
+          \ dot1q\n switchport trunk native vlan 99\n switchport trunk allowed vlan\
+          \ 30,40\n switchport mode trunk\n bandwidth 1000000\n ip arp inspection\
+          \ trust\n channel-group 1 mode active\n ip dhcp snooping trust\n!\ninterface\
+          \ Ethernet0/1\n description #link to DIST1#\n switchport trunk encapsulation\
+          \ dot1q\n switchport trunk native vlan 99\n switchport trunk allowed vlan\
+          \ 30,40\n switchport mode trunk\n bandwidth 1000000\n ip arp inspection\
+          \ trust\n channel-group 1 mode active\n ip dhcp snooping trust\n!\ninterface\
+          \ Ethernet0/2\n description description #link to DIST2#\n switchport trunk\
+          \ encapsulation dot1q\n switchport trunk native vlan 99\n switchport trunk\
+          \ allowed vlan 30,40\n switchport mode trunk\n bandwidth 1000000\n ip arp\
+          \ inspection trust\n channel-group 2 mode active\n ip dhcp snooping trust\n\
+          !\ninterface Ethernet0/3\n description description #link to DIST2#\n switchport\
+          \ trunk encapsulation dot1q\n switchport trunk native vlan 99\n switchport\
+          \ trunk allowed vlan 30,40\n switchport mode trunk\n bandwidth 1000000\n\
+          \ ip arp inspection trust\n channel-group 2 mode active\n ip dhcp snooping\
+          \ trust\n!\ninterface Ethernet1/0\n switchport access vlan 40\n switchport\
+          \ mode access\n switchport port-security maximum 2\n switchport port-security\
+          \ mac-address sticky\n switchport port-security mac-address sticky 5254.0074.db54\n\
+          \ switchport port-security\n bandwidth 1000000\n spanning-tree portfast\n\
+          \ spanning-tree bpduguard enable\n!\ninterface Ethernet1/1\n bandwidth 1000000\n\
+          !\ninterface Ethernet1/2\n bandwidth 1000000\n!\ninterface Ethernet1/3\n\
+          \ bandwidth 1000000\n!\nip forward-protocol nd\nip forward-protocol udp\n\
+          !\n!\nip http server\nip http secure-server\nip ssh bulk-mode 131072\n!\n\
+          no logging btrace\n!\n!\n!\ncontrol-plane\n!\n!\n!\nline con 0\n exec-timeout\
+          \ 0 0\n logging synchronous\nline aux 0\nline vty 0 4\n exec-timeout 0 0\n\
+          \ login\n transport input ssh\n!\n!\nend"
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n12
+    image_definition: null
+    label: ACC4
+    node_definition: ioll2-xe
+    parameters: {}
+    ram: null
+    tags: []
+    x: 800
+    y: 200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: Ethernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: hosts
+        content: |-
+          # see the addn-hosts config flag in dnsmasq.conf
+          192.168.255.10 myname
+
+          10.0.10.11 PC1.local.lab PC1
+          10.0.20.11 PC2.local.lab PC2
+          10.0.30.11 PC3.local.lab PC3
+          10.0.40.11 PC4.local.lab PC4
+          10.0.40.12 DNS.local.lab DNS
+      - name: dnsmasq.conf
+        content: |-
+          # Configuration file for dnsmasq.
+          #
+          # Format is one option per line, legal options are the same
+          # as the long options legal on the command line. See
+          # "/usr/sbin/dnsmasq --help" or "man 8 dnsmasq" for details.
+
+          # Listen on this specific port instead of the standard DNS port
+          # (53). Setting this to zero completely disables DNS function,
+          # leaving only DHCP and/or TFTP.
+          #port=5353
+
+          # The following two options make you a better netizen, since they
+          # tell dnsmasq to filter out queries which the public DNS cannot
+          # answer, and which load the servers (especially the root servers)
+          # unnecessarily. If you have a dial-on-demand link they also stop
+          # these requests from bringing up the link unnecessarily.
+
+          # Never forward plain names (without a dot or domain part)
+          #domain-needed
+          # Never forward addresses in the non-routed address spaces.
+          #bogus-priv
+
+          # Uncomment these to enable DNSSEC validation and caching:
+          # (Requires dnsmasq to be built with DNSSEC option.)
+          #conf-file=%%PREFIX%%/share/dnsmasq/trust-anchors.conf
+          #dnssec
+
+          # Replies which are not DNSSEC signed may be legitimate, because the domain
+          # is unsigned, or may be forgeries. Setting this option tells dnsmasq to
+          # check that an unsigned reply is OK, by finding a secure proof that a DS
+          # record somewhere between the root and the domain does not exist.
+          # The cost of setting this is that even queries in unsigned domains will need
+          # one or more extra DNS queries to verify.
+          #dnssec-check-unsigned
+
+          # Uncomment this to filter useless windows-originated DNS requests
+          # which can trigger dial-on-demand links needlessly.
+          # Note that (amongst other things) this blocks all SRV requests,
+          # so don't use it if you use eg Kerberos, SIP, XMMP or Google-talk.
+          # This option only affects forwarding, SRV records originating for
+          # dnsmasq (via srv-host= lines) are not suppressed by it.
+          #filterwin2k
+
+          # Change this line if you want dns to get its upstream servers from
+          # somewhere other that /etc/resolv.conf
+          #resolv-file=
+
+          # By  default,  dnsmasq  will  send queries to any of the upstream
+          # servers it knows about and tries to favour servers to are  known
+          # to  be  up.  Uncommenting this forces dnsmasq to try each query
+          # with  each  server  strictly  in  the  order  they   appear   in
+          # /etc/resolv.conf
+          strict-order
+          domain=local.lab
+          expand-hosts
+          no-resolv
+          server=8.8.8.8
+          server=1.1.1.1
+
+          # If you don't want dnsmasq to read /etc/resolv.conf or any other
+          # file, getting its servers from this file instead (see below), then
+          # uncomment this.
+          #no-resolv
+
+          # If you don't want dnsmasq to poll /etc/resolv.conf or other resolv
+          # files for changes and re-read them then uncomment this.
+          #no-poll
+
+          # Add other name servers here, with domain specs if they are for
+          # non-public domains.
+          #server=/localnet/192.168.0.1
+
+          # Example of routing PTR queries to nameservers: this will send all
+          # address->name queries for 192.168.3/24 to nameserver 10.1.2.3
+          #server=/3.168.192.in-addr.arpa/10.1.2.3
+
+          # Add local-only domains here, queries in these domains are answered
+          # from /etc/hosts or DHCP only.
+          #local=/localnet/
+
+          # Add domains which you want to force to an IP address here.
+          # The example below send any host in double-click.net to a local
+          # web-server.
+          #address=/double-click.net/127.0.0.1
+
+          # --address (and --server) work with IPv6 addresses too.
+          #address=/www.thekelleys.org.uk/fe80::20d:60ff:fe36:f83
+
+          # Add the IPs of all queries to yahoo.com, google.com, and their
+          # subdomains to the vpn and search ipsets:
+          #ipset=/yahoo.com/google.com/vpn,search
+
+          # Add the IPs of all queries to yahoo.com, google.com, and their
+          # subdomains to netfilters sets, which is equivalent to
+          # 'nft add element ip test vpn { ... }; nft add element ip test search { ... }'
+          #nftset=/yahoo.com/google.com/ip#test#vpn,ip#test#search
+
+          # Use netfilters sets for both IPv4 and IPv6:
+          # This adds all addresses in *.yahoo.com to vpn4 and vpn6 for IPv4 and IPv6 addresses.
+          #nftset=/yahoo.com/4#ip#test#vpn4
+          #nftset=/yahoo.com/6#ip#test#vpn6
+
+          # You can control how dnsmasq talks to a server: this forces
+          # queries to 10.1.2.3 to be routed via eth1
+          # server=10.1.2.3@eth1
+
+          # and this sets the source (ie local) address used to talk to
+          # 10.1.2.3 to 192.168.1.1 port 55 (there must be an interface with that
+          # IP on the machine, obviously).
+          # server=10.1.2.3@192.168.1.1#55
+
+          # If you want dnsmasq to change uid and gid to something other
+          # than the default, edit the following lines.
+          #user=
+          #group=
+
+          # If you want dnsmasq to listen for DHCP and DNS requests only on
+          # specified interfaces (and the loopback) give the name of the
+          # interface (eg eth0) here.
+          # Repeat the line for more than one interface.
+          #interface=
+          # Or you can specify which interface _not_ to listen on
+          #except-interface=
+          # Or which to listen on by address (remember to include 127.0.0.1 if
+          # you use this.)
+          #listen-address=
+          # If you want dnsmasq to provide only DNS service on an interface,
+          # configure it as shown above, and then use the following line to
+          # disable DHCP and TFTP on it.
+          #no-dhcp-interface=
+
+          # On systems which support it, dnsmasq binds the wildcard address,
+          # even when it is listening on only some interfaces. It then discards
+          # requests that it shouldn't reply to. This has the advantage of
+          # working even when interfaces come and go and change address. If you
+          # want dnsmasq to really bind only the interfaces it is listening on,
+          # uncomment this option. About the only time you may need this is when
+          # running another nameserver on the same machine.
+          #bind-interfaces
+
+          # If you don't want dnsmasq to read /etc/hosts, uncomment the
+          # following line.
+          #no-hosts
+          # or if you want it to read another file, as well as /etc/hosts, use
+          # this.
+          #addn-hosts=/etc/banner_add_hosts
+          addn-hosts=/etc/banner_add_hosts
+
+          # Set this (and domain: see below) if you want to have a domain
+          # automatically added to simple names in a hosts-file.
+          #expand-hosts
+
+          # Set the domain for dnsmasq. this is optional, but if it is set, it
+          # does the following things.
+          # 1) Allows DHCP hosts to have fully qualified domain names, as long
+          #     as the domain part matches this setting.
+          # 2) Sets the "domain" DHCP option thereby potentially setting the
+          #    domain of all systems configured by DHCP
+          # 3) Provides the domain part for "expand-hosts"
+          #domain=thekelleys.org.uk
+
+          # Set a different domain for a particular subnet
+          #domain=wireless.thekelleys.org.uk,192.168.2.0/24
+
+          # Same idea, but range rather then subnet
+          #domain=reserved.thekelleys.org.uk,192.68.3.100,192.168.3.200
+
+          # Uncomment this to enable the integrated DHCP server, you need
+          # to supply the range of addresses available for lease and optionally
+          # a lease time. If you have more than one network, you will need to
+          # repeat this for each network on which you want to supply DHCP
+          # service.
+          #dhcp-range=192.168.0.50,192.168.0.150,12h
+
+          # This is an example of a DHCP range where the netmask is given. This
+          # is needed for networks we reach the dnsmasq DHCP server via a relay
+          # agent. If you don't know what a DHCP relay agent is, you probably
+          # don't need to worry about this.
+          #dhcp-range=192.168.0.50,192.168.0.150,255.255.255.0,12h
+
+          # This is an example of a DHCP range which sets a tag, so that
+          # some DHCP options may be set only for this network.
+          #dhcp-range=set:red,192.168.0.50,192.168.0.150
+
+          # Use this DHCP range only when the tag "green" is set.
+          #dhcp-range=tag:green,192.168.0.50,192.168.0.150,12h
+
+          # Specify a subnet which can't be used for dynamic address allocation,
+          # is available for hosts with matching --dhcp-host lines. Note that
+          # dhcp-host declarations will be ignored unless there is a dhcp-range
+          # of some type for the subnet in question.
+          # In this case the netmask is implied (it comes from the network
+          # configuration on the machine running dnsmasq) it is possible to give
+          # an explicit netmask instead.
+          #dhcp-range=192.168.0.0,static
+
+          # Enable DHCPv6. Note that the prefix-length does not need to be specified
+          # and defaults to 64 if missing/
+          #dhcp-range=1234::2, 1234::500, 64, 12h
+
+          # Do Router Advertisements, BUT NOT DHCP for this subnet.
+          #dhcp-range=1234::, ra-only
+
+          # Do Router Advertisements, BUT NOT DHCP for this subnet, also try and
+          # add names to the DNS for the IPv6 address of SLAAC-configured dual-stack
+          # hosts. Use the DHCPv4 lease to derive the name, network segment and
+          # MAC address and assume that the host will also have an
+          # IPv6 address calculated using the SLAAC algorithm.
+          #dhcp-range=1234::, ra-names
+
+          # Do Router Advertisements, BUT NOT DHCP for this subnet.
+          # Set the lifetime to 46 hours. (Note: minimum lifetime is 2 hours.)
+          #dhcp-range=1234::, ra-only, 48h
+
+          # Do DHCP and Router Advertisements for this subnet. Set the A bit in the RA
+          # so that clients can use SLAAC addresses as well as DHCP ones.
+          #dhcp-range=1234::2, 1234::500, slaac
+
+          # Do Router Advertisements and stateless DHCP for this subnet. Clients will
+          # not get addresses from DHCP, but they will get other configuration information.
+          # They will use SLAAC for addresses.
+          #dhcp-range=1234::, ra-stateless
+
+          # Do stateless DHCP, SLAAC, and generate DNS names for SLAAC addresses
+          # from DHCPv4 leases.
+          #dhcp-range=1234::, ra-stateless, ra-names
+
+          # Do router advertisements for all subnets where we're doing DHCPv6
+          # Unless overridden by ra-stateless, ra-names, et al, the router
+          # advertisements will have the M and O bits set, so that the clients
+          # get addresses and configuration from DHCPv6, and the A bit reset, so the
+          # clients don't use SLAAC addresses.
+          #enable-ra
+
+          # Supply parameters for specified hosts using DHCP. There are lots
+          # of valid alternatives, so we will give examples of each. Note that
+          # IP addresses DO NOT have to be in the range given above, they just
+          # need to be on the same network. The order of the parameters in these
+          # do not matter, it's permissible to give name, address and MAC in any
+          # order.
+
+          # Always allocate the host with Ethernet address 11:22:33:44:55:66
+          # The IP address 192.168.0.60
+          #dhcp-host=11:22:33:44:55:66,192.168.0.60
+
+          # Always set the name of the host with hardware address
+          # 11:22:33:44:55:66 to be "fred"
+          #dhcp-host=11:22:33:44:55:66,fred
+
+          # Always give the host with Ethernet address 11:22:33:44:55:66
+          # the name fred and IP address 192.168.0.60 and lease time 45 minutes
+          #dhcp-host=11:22:33:44:55:66,fred,192.168.0.60,45m
+
+          # Give a host with Ethernet address 11:22:33:44:55:66 or
+          # 12:34:56:78:90:12 the IP address 192.168.0.60. Dnsmasq will assume
+          # that these two Ethernet interfaces will never be in use at the same
+          # time, and give the IP address to the second, even if it is already
+          # in use by the first. Useful for laptops with wired and wireless
+          # addresses.
+          #dhcp-host=11:22:33:44:55:66,12:34:56:78:90:12,192.168.0.60
+
+          # Give the machine which says its name is "bert" IP address
+          # 192.168.0.70 and an infinite lease
+          #dhcp-host=bert,192.168.0.70,infinite
+
+          # Always give the host with client identifier 01:02:02:04
+          # the IP address 192.168.0.60
+          #dhcp-host=id:01:02:02:04,192.168.0.60
+
+          # Always give the InfiniBand interface with hardware address
+          # 80:00:00:48:fe:80:00:00:00:00:00:00:f4:52:14:03:00:28:05:81 the
+          # ip address 192.168.0.61. The client id is derived from the prefix
+          # ff:00:00:00:00:00:02:00:00:02:c9:00 and the last 8 pairs of
+          # hex digits of the hardware address.
+          #dhcp-host=id:ff:00:00:00:00:00:02:00:00:02:c9:00:f4:52:14:03:00:28:05:81,192.168.0.61
+
+          # Always give the host with client identifier "marjorie"
+          # the IP address 192.168.0.60
+          #dhcp-host=id:marjorie,192.168.0.60
+
+          # Enable the address given for "judge" in /etc/hosts
+          # to be given to a machine presenting the name "judge" when
+          # it asks for a DHCP lease.
+          #dhcp-host=judge
+
+          # Never offer DHCP service to a machine whose Ethernet
+          # address is 11:22:33:44:55:66
+          #dhcp-host=11:22:33:44:55:66,ignore
+
+          # Ignore any client-id presented by the machine with Ethernet
+          # address 11:22:33:44:55:66. This is useful to prevent a machine
+          # being treated differently when running under different OS's or
+          # between PXE boot and OS boot.
+          #dhcp-host=11:22:33:44:55:66,id:*
+
+          # Send extra options which are tagged as "red" to
+          # the machine with Ethernet address 11:22:33:44:55:66
+          #dhcp-host=11:22:33:44:55:66,set:red
+
+          # Send extra options which are tagged as "red" to
+          # any machine with Ethernet address starting 11:22:33:
+          #dhcp-host=11:22:33:*:*:*,set:red
+
+          # Give a fixed IPv6 address and name to client with
+          # DUID 00:01:00:01:16:d2:83:fc:92:d4:19:e2:d8:b2
+          # Note the MAC addresses CANNOT be used to identify DHCPv6 clients.
+          # Note also that the [] around the IPv6 address are obligatory.
+          #dhcp-host=id:00:01:00:01:16:d2:83:fc:92:d4:19:e2:d8:b2, fred, [1234::5]
+
+          # Ignore any clients which are not specified in dhcp-host lines
+          # or /etc/ethers. Equivalent to ISC "deny unknown-clients".
+          # This relies on the special "known" tag which is set when
+          # a host is matched.
+          #dhcp-ignore=tag:!known
+
+          # Send extra options which are tagged as "red" to any machine whose
+          # DHCP vendorclass string includes the substring "Linux"
+          #dhcp-vendorclass=set:red,Linux
+
+          # Send extra options which are tagged as "red" to any machine one
+          # of whose DHCP userclass strings includes the substring "accounts"
+          #dhcp-userclass=set:red,accounts
+
+          # Send extra options which are tagged as "red" to any machine whose
+          # MAC address matches the pattern.
+          #dhcp-mac=set:red,00:60:8C:*:*:*
+
+          # If this line is uncommented, dnsmasq will read /etc/ethers and act
+          # on the ethernet-address/IP pairs found there just as if they had
+          # been given as --dhcp-host options. Useful if you keep
+          # MAC-address/host mappings there for other purposes.
+          #read-ethers
+
+          # Send options to hosts which ask for a DHCP lease.
+          # See RFC 2132 for details of available options.
+          # Common options can be given to dnsmasq by name:
+          # run "dnsmasq --help dhcp" to get a list.
+          # Note that all the common settings, such as netmask and
+          # broadcast address, DNS server and default route, are given
+          # sane defaults by dnsmasq. You very likely will not need
+          # any dhcp-options. If you use Windows clients and Samba, there
+          # are some options which are recommended, they are detailed at the
+          # end of this section.
+
+          # Override the default route supplied by dnsmasq, which assumes the
+          # router is the same machine as the one running dnsmasq.
+          #dhcp-option=3,1.2.3.4
+
+          # Do the same thing, but using the option name
+          #dhcp-option=option:router,1.2.3.4
+
+          # Override the default route supplied by dnsmasq and send no default
+          # route at all. Note that this only works for the options sent by
+          # default (1, 3, 6, 12, 28) the same line will send a zero-length option
+          # for all other option numbers.
+          #dhcp-option=3
+
+          # Set the NTP time server addresses to 192.168.0.4 and 10.10.0.5
+          #dhcp-option=option:ntp-server,192.168.0.4,10.10.0.5
+
+          # Send DHCPv6 option. Note [] around IPv6 addresses.
+          #dhcp-option=option6:dns-server,[1234::77],[1234::88]
+
+          # Send DHCPv6 option for namservers as the machine running
+          # dnsmasq and another.
+          #dhcp-option=option6:dns-server,[::],[1234::88]
+
+          # Ask client to poll for option changes every six hours. (RFC4242)
+          #dhcp-option=option6:information-refresh-time,6h
+
+          # Set option 58 client renewal time (T1). Defaults to half of the
+          # lease time if not specified. (RFC2132)
+          #dhcp-option=option:T1,1m
+
+          # Set option 59 rebinding time (T2). Defaults to 7/8 of the
+          # lease time if not specified. (RFC2132)
+          #dhcp-option=option:T2,2m
+
+          # Set the NTP time server address to be the same machine as
+          # is running dnsmasq
+          #dhcp-option=42,0.0.0.0
+
+          # Set the NIS domain name to "welly"
+          #dhcp-option=40,welly
+
+          # Set the default time-to-live to 50
+          #dhcp-option=23,50
+
+          # Set the "all subnets are local" flag
+          #dhcp-option=27,1
+
+          # Send the etherboot magic flag and then etherboot options (a string).
+          #dhcp-option=128,e4:45:74:68:00:00
+          #dhcp-option=129,NIC=eepro100
+
+          # Specify an option which will only be sent to the "red" network
+          # (see dhcp-range for the declaration of the "red" network)
+          # Note that the tag: part must precede the option: part.
+          #dhcp-option = tag:red, option:ntp-server, 192.168.1.1
+
+          # The following DHCP options set up dnsmasq in the same way as is specified
+          # for the ISC dhcpcd in
+          # https://web.archive.org/web/20040313070105/http://us1.samba.org/samba/ftp/docs/textdocs/DHCP-Server-Configuration.txt
+          # adapted for a typical dnsmasq installation where the host running
+          # dnsmasq is also the host running samba.
+          # you may want to uncomment some or all of them if you use
+          # Windows clients and Samba.
+          #dhcp-option=19,0           # option ip-forwarding off
+          #dhcp-option=44,0.0.0.0     # set netbios-over-TCP/IP nameserver(s) aka WINS server(s)
+          #dhcp-option=45,0.0.0.0     # netbios datagram distribution server
+          #dhcp-option=46,8           # netbios node type
+
+          # Send an empty WPAD option. This may be REQUIRED to get windows 7 to behave.
+          #dhcp-option=252,"\n"
+
+          # Send RFC-3397 DNS domain search DHCP option. WARNING: Your DHCP client
+          # probably doesn't support this......
+          #dhcp-option=option:domain-search,eng.apple.com,marketing.apple.com
+
+          # Send RFC-3442 classless static routes (note the netmask encoding)
+          #dhcp-option=121,192.168.1.0/24,1.2.3.4,10.0.0.0/8,5.6.7.8
+
+          # Send vendor-class specific options encapsulated in DHCP option 43.
+          # The meaning of the options is defined by the vendor-class so
+          # options are sent only when the client supplied vendor class
+          # matches the class given here. (A substring match is OK, so "MSFT"
+          # matches "MSFT" and "MSFT 5.0"). This example sets the
+          # mtftp address to 0.0.0.0 for PXEClients.
+          #dhcp-option=vendor:PXEClient,1,0.0.0.0
+
+          # Send microsoft-specific option to tell windows to release the DHCP lease
+          # when it shuts down. Note the "i" flag, to tell dnsmasq to send the
+          # value as a four-byte integer - that's what microsoft wants. See
+          # http://technet2.microsoft.com/WindowsServer/en/library/a70f1bb7-d2d4-49f0-96d6-4b7414ecfaae1033.mspx?mfr=true
+          #dhcp-option=vendor:MSFT,2,1i
+
+          # Send the Encapsulated-vendor-class ID needed by some configurations of
+          # Etherboot to allow is to recognise the DHCP server.
+          #dhcp-option=vendor:Etherboot,60,"Etherboot"
+
+          # Send options to PXELinux. Note that we need to send the options even
+          # though they don't appear in the parameter request list, so we need
+          # to use dhcp-option-force here.
+          # See http://syslinux.zytor.com/pxe.php#special for details.
+          # Magic number - needed before anything else is recognised
+          #dhcp-option-force=208,f1:00:74:7e
+          # Configuration file name
+          #dhcp-option-force=209,configs/common
+          # Path prefix
+          #dhcp-option-force=210,/tftpboot/pxelinux/files/
+          # Reboot time. (Note 'i' to send 32-bit value)
+          #dhcp-option-force=211,30i
+
+          # Set the boot filename for netboot/PXE. You will only need
+          # this if you want to boot machines over the network and you will need
+          # a TFTP server; either dnsmasq's built-in TFTP server or an
+          # external one. (See below for how to enable the TFTP server.)
+          #dhcp-boot=pxelinux.0
+
+          # The same as above, but use custom tftp-server instead machine running dnsmasq
+          #dhcp-boot=pxelinux,server.name,192.168.1.100
+
+          # Boot for iPXE. The idea is to send two different
+          # filenames, the first loads iPXE, and the second tells iPXE what to
+          # load. The dhcp-match sets the ipxe tag for requests from iPXE.
+          #dhcp-boot=undionly.kpxe
+          #dhcp-match=set:ipxe,175 # iPXE sends a 175 option.
+          #dhcp-boot=tag:ipxe,http://boot.ipxe.org/demo/boot.php
+
+          # Encapsulated options for iPXE. All the options are
+          # encapsulated within option 175
+          #dhcp-option=encap:175, 1, 5b         # priority code
+          #dhcp-option=encap:175, 176, 1b       # no-proxydhcp
+          #dhcp-option=encap:175, 177, string   # bus-id
+          #dhcp-option=encap:175, 189, 1b       # BIOS drive code
+          #dhcp-option=encap:175, 190, user     # iSCSI username
+          #dhcp-option=encap:175, 191, pass     # iSCSI password
+
+          # Test for the architecture of a netboot client. PXE clients are
+          # supposed to send their architecture as option 93. (See RFC 4578)
+          #dhcp-match=peecees, option:client-arch, 0 #x86-32
+          #dhcp-match=itanics, option:client-arch, 2 #IA64
+          #dhcp-match=hammers, option:client-arch, 6 #x86-64
+          #dhcp-match=mactels, option:client-arch, 7 #EFI x86-64
+
+          # Do real PXE, rather than just booting a single file, this is an
+          # alternative to dhcp-boot.
+          #pxe-prompt="What system shall I netboot?"
+          # or with timeout before first available action is taken:
+          #pxe-prompt="Press F8 for menu.", 60
+
+          # Available boot services. for PXE.
+          #pxe-service=x86PC, "Boot from local disk"
+
+          # Loads <tftp-root>/pxelinux.0 from dnsmasq TFTP server.
+          #pxe-service=x86PC, "Install Linux", pxelinux
+
+          # Loads <tftp-root>/pxelinux.0 from TFTP server at 1.2.3.4.
+          # Beware this fails on old PXE ROMS.
+          #pxe-service=x86PC, "Install Linux", pxelinux, 1.2.3.4
+
+          # Use bootserver on network, found my multicast or broadcast.
+          #pxe-service=x86PC, "Install windows from RIS server", 1
+
+          # Use bootserver at a known IP address.
+          #pxe-service=x86PC, "Install windows from RIS server", 1, 1.2.3.4
+
+          # If you have multicast-FTP available,
+          # information for that can be passed in a similar way using options 1
+          # to 5. See page 19 of
+          # http://download.intel.com/design/archives/wfm/downloads/pxespec.pdf
+
+
+          # Enable dnsmasq's built-in TFTP server
+          #enable-tftp
+
+          # Set the root directory for files available via FTP.
+          #tftp-root=/var/ftpd
+
+          # Do not abort if the tftp-root is unavailable
+          #tftp-no-fail
+
+          # Make the TFTP server more secure: with this set, only files owned by
+          # the user dnsmasq is running as will be send over the net.
+          #tftp-secure
+
+          # This option stops dnsmasq from negotiating a larger blocksize for TFTP
+          # transfers. It will slow things down, but may rescue some broken TFTP
+          # clients.
+          #tftp-no-blocksize
+
+          # Set the boot file name only when the "red" tag is set.
+          #dhcp-boot=tag:red,pxelinux.red-net
+
+          # An example of dhcp-boot with an external TFTP server: the name and IP
+          # address of the server are given after the filename.
+          # Can fail with old PXE ROMS. Overridden by --pxe-service.
+          #dhcp-boot=/var/ftpd/pxelinux.0,boothost,192.168.0.3
+
+          # If there are multiple external tftp servers having a same name
+          # (using /etc/hosts) then that name can be specified as the
+          # tftp_servername (the third option to dhcp-boot) and in that
+          # case dnsmasq resolves this name and returns the resultant IP
+          # addresses in round robin fashion. This facility can be used to
+          # load balance the tftp load among a set of servers.
+          #dhcp-boot=/var/ftpd/pxelinux.0,boothost,tftp_server_name
+
+          # Set the limit on DHCP leases, the default is 150
+          #dhcp-lease-max=150
+
+          # The DHCP server needs somewhere on disk to keep its lease database.
+          # This defaults to a sane location, but if you want to change it, use
+          # the line below.
+          #dhcp-leasefile=/var/lib/misc/dnsmasq.leases
+
+          # Set the DHCP server to authoritative mode. In this mode it will barge in
+          # and take over the lease for any client which broadcasts on the network,
+          # whether it has a record of the lease or not. This avoids long timeouts
+          # when a machine wakes up on a new network. DO NOT enable this if there's
+          # the slightest chance that you might end up accidentally configuring a DHCP
+          # server for your campus/company accidentally. The ISC server uses
+          # the same option, and this URL provides more information:
+          # http://www.isc.org/files/auth.html
+          #dhcp-authoritative
+
+          # Set the DHCP server to enable DHCPv4 Rapid Commit Option per RFC 4039.
+          # In this mode it will respond to a DHCPDISCOVER message including a Rapid Commit
+          # option with a DHCPACK including a Rapid Commit option and fully committed address
+          # and configuration information. This must only be enabled if either the server is
+          # the only server for the subnet, or multiple servers are present and they each
+          # commit a binding for all clients.
+          #dhcp-rapid-commit
+
+          # Run an executable when a DHCP lease is created or destroyed.
+          # The arguments sent to the script are "add" or "del",
+          # then the MAC address, the IP address and finally the hostname
+          # if there is one.
+          #dhcp-script=/bin/echo
+
+          # Set the cachesize here.
+          #cache-size=150
+
+          # If you want to disable negative caching, uncomment this.
+          #no-negcache
+
+          # Normally responses which come from /etc/hosts and the DHCP lease
+          # file have Time-To-Live set as zero, which conventionally means
+          # do not cache further. If you are happy to trade lower load on the
+          # server for potentially stale date, you can set a time-to-live (in
+          # seconds) here.
+          #local-ttl=
+
+          # If you want dnsmasq to detect attempts by Verisign to send queries
+          # to unregistered .com and .net hosts to its sitefinder service and
+          # have dnsmasq instead return the correct NXDOMAIN response, uncomment
+          # this line. You can add similar lines to do the same for other
+          # registries which have implemented wildcard A records.
+          #bogus-nxdomain=64.94.110.11
+
+          # If you want to fix up DNS results from upstream servers, use the
+          # alias option. This only works for IPv4.
+          # This alias makes a result of 1.2.3.4 appear as 5.6.7.8
+          #alias=1.2.3.4,5.6.7.8
+          # and this maps 1.2.3.x to 5.6.7.x
+          #alias=1.2.3.0,5.6.7.0,255.255.255.0
+          # and this maps 192.168.0.10->192.168.0.40 to 10.0.0.10->10.0.0.40
+          #alias=192.168.0.10-192.168.0.40,10.0.0.0,255.255.255.0
+
+          # Change these lines if you want dnsmasq to serve MX records.
+
+          # Return an MX record named "maildomain.com" with target
+          # servermachine.com and preference 50
+          #mx-host=maildomain.com,servermachine.com,50
+
+          # Set the default target for MX records created using the localmx option.
+          #mx-target=servermachine.com
+
+          # Return an MX record pointing to the mx-target for all local
+          # machines.
+          #localmx
+
+          # Return an MX record pointing to itself for all local machines.
+          #selfmx
+
+          # Change the following lines if you want dnsmasq to serve SRV
+          # records.  These are useful if you want to serve ldap requests for
+          # Active Directory and other windows-originated DNS requests.
+          # See RFC 2782.
+          # You may add multiple srv-host lines.
+          # The fields are <name>,<target>,<port>,<priority>,<weight>
+          # If the domain part if missing from the name (so that is just has the
+          # service and protocol sections) then the domain given by the domain=
+          # config option is used. (Note that expand-hosts does not need to be
+          # set for this to work.)
+
+          # A SRV record sending LDAP for the example.com domain to
+          # ldapserver.example.com port 389
+          #srv-host=_ldap._tcp.example.com,ldapserver.example.com,389
+
+          # A SRV record sending LDAP for the example.com domain to
+          # ldapserver.example.com port 389 (using domain=)
+          #domain=example.com
+          #srv-host=_ldap._tcp,ldapserver.example.com,389
+
+          # Two SRV records for LDAP, each with different priorities
+          #srv-host=_ldap._tcp.example.com,ldapserver.example.com,389,1
+          #srv-host=_ldap._tcp.example.com,ldapserver.example.com,389,2
+
+          # A SRV record indicating that there is no LDAP server for the domain
+          # example.com
+          #srv-host=_ldap._tcp.example.com
+
+          # The following line shows how to make dnsmasq serve an arbitrary PTR
+          # record. This is useful for DNS-SD. (Note that the
+          # domain-name expansion done for SRV records _does_not
+          # occur for PTR records.)
+          #ptr-record=_http._tcp.dns-sd-services,"New Employee Page._http._tcp.dns-sd-services"
+
+          # Change the following lines to enable dnsmasq to serve TXT records.
+          # These are used for things like SPF and zeroconf. (Note that the
+          # domain-name expansion done for SRV records _does_not
+          # occur for TXT records.)
+
+          #Example SPF.
+          #txt-record=example.com,"v=spf1 a -all"
+
+          #Example zeroconf
+          #txt-record=_http._tcp.example.com,name=value,paper=A4
+
+          # Provide an alias for a "local" DNS name. Note that this _only_ works
+          # for targets which are names from DHCP or /etc/hosts. Give host
+          # "bert" another name, bertrand
+          #cname=bertrand,bert
+
+          # For debugging purposes, log each DNS query as it passes through
+          # dnsmasq.
+          #log-queries
+
+          # Log lots of extra information about DHCP transactions.
+          #log-dhcp
+
+          # Include another lot of configuration options.
+          #conf-file=/etc/dnsmasq.more.conf
+          #conf-dir=/etc/dnsmasq.d
+
+          # Include all the files in a directory except those ending in .bak
+          #conf-dir=/etc/dnsmasq.d,.bak
+
+          # Include all files in a directory which end in .conf
+          #conf-dir=/etc/dnsmasq.d/,*.conf
+
+          # If a DHCP client claims that its name is "wpad", ignore that.
+          # This fixes a security hole. see CERT Vulnerability VU#598349
+          #dhcp-name-match=set:wpad-ignore,wpad
+          #dhcp-ignore-names=tag:wpad-ignore
+      - name: boot.sh
+        content: |-
+          # insert more commands here
+          # ip address add dev eth1 10.0.0.1/24
+          # ip link set dev eth1 up
+
+          ip address add dev eth0 10.0.40.12/24
+          ip route add default via 10.0.40.1
+
+          # keep the next line to indicate that the machine is ready
+          echo "READY" >/dev/console
+          exit 0
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n13
+    image_definition: null
+    label: dnsmasq-0
+    node_definition: dnsmasq
+    parameters: {}
+    ram: null
+    tags: []
+    x: 1080
+    y: 160
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: eth1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: eth2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: eth3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: boot.sh
+        content: |-
+          # insert more commands here
+          # ip address add dev eth1 10.0.0.1/24
+          # ip link set dev eth1 up
+          #
+          ip address add dev  eth0 10.0.40.13/24
+          echo "nameserver 10.0.40.12" > /etc/resolv.conf
+
+          # keep the next line to indicate that the machine is ready
+          echo "READY" >/dev/console
+          cat /etc/motd
+          exit 0
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n14
+    image_definition: null
+    label: net-tools-0
+    node_definition: net-tools
+    parameters: {}
+    ram: null
+    tags: []
+    x: 920
+    y: 40
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: eth1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: eth2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: eth3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: day0-config
+        content: |-
+          : Saved
+
+          :
+          : Serial Number: 9AGWJC8PFPN
+          : Hardware:   ASAv, 2048 MB RAM, CPU Pentium II 3686 MHz
+          :
+          ASA Version 9.23(1)
+          !
+          hostname ASAV-0
+          enable password ***** pbkdf2
+          service-module 0 keepalive-timeout 4
+          service-module 0 keepalive-counter 6
+          names
+          no mac-address auto
+
+          !
+          interface GigabitEthernet0/0
+           nameif inside-core1
+           security-level 100
+           ip address 10.0.12.21 255.255.255.252
+          !
+          interface GigabitEthernet0/1
+           nameif inside-core2
+           security-level 100
+           ip address 10.0.12.25 255.255.255.252
+          !
+          interface GigabitEthernet0/2
+           nameif outside
+           security-level 0
+           ip address 192.168.255.95 255.255.255.0
+          !
+          interface GigabitEthernet0/3
+           shutdown
+           no nameif
+           no security-level
+           no ip address
+          !
+          interface GigabitEthernet0/4
+           shutdown
+           no nameif
+           no security-level
+           no ip address
+          !
+          interface Management0/0
+           no management-only
+           shutdown
+           no nameif
+           no security-level
+           no ip address
+          !
+          ftp mode passive
+          no object-group-search access-control
+          object network INTERNAL-NET
+           subnet 10.0.0.0 255.0.0.0
+          pager lines 23
+          mtu inside-core1 1500
+          mtu inside-core2 1500
+          mtu outside 1500
+          no failover
+          no failover wait-disable
+          no monitor-interface service-module
+          icmp unreachable rate-limit 1 burst-size 1
+          no asdm history enable
+          arp timeout 14400
+          no arp permit-nonconnected
+          arp rate-limit 8192
+          nat (any,outside) source dynamic INTERNAL-NET interface
+          route outside 0.0.0.0 0.0.0.0 192.168.255.1 1
+          route inside-core1 10.0.0.0 255.0.0.0 10.0.12.22 1
+          route inside-core2 10.0.0.0 255.0.0.0 10.0.12.26 254
+          timeout xlate 3:00:00
+          timeout pat-xlate 0:00:30
+          timeout conn 1:00:00 half-closed 0:10:00 udp 0:02:00 sctp 0:02:00 icmp 0:00:02
+          timeout sunrpc 0:10:00 h323 0:05:00 h225 1:00:00 mgcp 0:05:00 mgcp-pat 0:05:00
+          timeout sip 0:30:00 sip_media 0:02:00 sip-invite 0:03:00 sip-disconnect 0:02:00
+          timeout sip-provisional-media 0:02:00 uauth 0:05:00 absolute
+          timeout tcp-proxy-reassembly 0:01:00
+          timeout floating-conn 0:00:00
+          timeout conn-holddown 0:00:15
+          timeout igp stale-route 0:01:10
+          user-identity default-domain LOCAL
+          aaa authentication login-history
+          no snmp-server location
+          no snmp-server contact
+          crypto ipsec security-association pmtu-aging infinite
+          crypto ca trustpoint _SmartCallHome_ServerCA
+           no validation-usage
+           crl configure
+          crypto ca trustpoint _SmartCallHome_ServerCA2
+           no validation-usage
+           crl configure
+          crypto ca trustpool policy
+           auto-import
+          crypto ca certificate chain _SmartCallHome_ServerCA
+           certificate ca 0a0142800000014523c844b500000002
+              30820560 30820348 a0030201 0202100a 01428000 00014523 c844b500 00000230
+              0d06092a 864886f7 0d01010b 0500304a 310b3009 06035504 06130255 53311230
+              10060355 040a1309 4964656e 54727573 74312730 25060355 0403131e 4964656e
+              54727573 7420436f 6d6d6572 6369616c 20526f6f 74204341 2031301e 170d3134
+              30313136 31383132 32335a17 0d333430 31313631 38313232 335a304a 310b3009
+              06035504 06130255 53311230 10060355 040a1309 4964656e 54727573 74312730
+              25060355 0403131e 4964656e 54727573 7420436f 6d6d6572 6369616c 20526f6f
+              74204341 20313082 0222300d 06092a86 4886f70d 01010105 00038202 0f003082
+              020a0282 020100a7 5019de3f 993dd433 46f16f51 6182b2a9 4f8f6789 5d84d953
+              dd0c28d9 d7f0ffae 95437299 f9b55d7c 8ac142e1 315074d1 810d7ccd 9b21ab43
+              e2acad5e 866ef309 8a1f5a32 bda2eb94 f9e85c0a ecff98d2 af71b3b4 539f4e87
+              ef92bcbd ec4f3230 884b175e 57c453c2 f602978d d9622bbf 241f628d dfc3b829
+              4b49783c 93608822 fc99da36 c8c2a2d4 2c540067 356e73bf 0258f0a4 dde5b0a2
+              267acae0 36a51916 f5fdb7ef ae3f40f5 6d5a04fd ce34ca24 dc74231b 5d331312
+              5dc40125 f630dd02 5d9fe0d5 47bdb4eb 1ba1bb49 49d89f5b 02f38ae4 2490e462
+              4f4fc1af 8b0e7417 a8d17288 6a7a0149 ccb44679 c617b1da 981e0759 fa752185
+              65dd9056 cefbaba5 609dc49d f952b08b bd87f98f 2b230a23 763bf733 e1c900f3
+              69f94ba2 e04ebc7e 93398407 f744707e fe075ae5 b1acd118 ccf235e5 494908ca
+              56c93dfb 0f187d8b 3bc113c2 4d8fc94f 0e37e91f a10e6adf 622ecb35 0651792c
+              c82538f4 fa4ba789 5c9cd2e3 0d39864a 747cd559 87c23f4e 0c5c52f4 3df75282
+              f1eaa3ac fd49341a 28f34188 3a13eee8 deff991d 5fbacbe8 1ef2b950 60c031d3
+              73e5efbe a0ed330b 74be2020 c4676cf0 08037a55 807f464e 96a7f41e 3ee1f6d8
+              09e13364 2b63d732 5e9ff9c0 7b0f786f 97bc939a f99c1290 787a8087 15d77274
+              9c557478 b1bae16e 7004ba4f a0ba68c3 7bff31f0 733d3d94 2ab10b41 0ea0fe4d
+              88656b79 33b4d702 03010001 a3423040 300e0603 551d0f01 01ff0404 03020106
+              300f0603 551d1301 01ff0405 30030101 ff301d06 03551d0e 04160414 ed4419c0
+              d3f0068b eea47bbe 42e72654 c88e3676 300d0609 2a864886 f70d0101 0b050003
+              82020100 0dae9032 f6a64b7c 44761961 1e2728cd 5e54ef25 bce30890 f929d7ae
+              6808e194 0058ef2e 2e7e5352 8cb65c07 ea88ba99 8b5094d7 8280df61 090093ad
+              0d14e6ce c1f23794 78b05f9c b3a273b8 8f059338 cd8d3eb0 b8fbc0cf b1f2ec2d
+              2d1bccec aa9ab3aa 60821b2d 3bc3843d 578a961e 9c75b8d3 30cd6008 8390d38e
+              54f14d66 c05d7403 40a3ee85 7ec21f77 9c06e8c1 a7185d52 95edc9dd 259e6dfa
+              a9eda33a 34d0597b daed50f3 35bfedeb 144d31c7 60f4daf1 879ce248 e2c6c537
+              fb0610fa 75596631 4729da76 9a1ce982 aeef9ab9 51f78823 9a699562 3ce55580
+              36d75402 fff1b95d ced4236f d845844a 5b65ef89 0cdd14a7 20cb18a5 25b40df9
+              01f0a2d2 f400c874 8ea12a48 8e65db13 c4e22517 7debbe87 5b172054 51934a53
+              030bec5d ca33ed62 fd45c72f 5bdc58a0 8039e6fa d7fe1314 a6ed3d94 4a4274d4
+              c3775973 cd8f46be 5538effa e89132ea 97580422 de38c3cc bc6dc933 3a6a0a69
+              3fa0c8ea 728f8c63 8623bd6d 3c969e95 e0494caa a2b92a1b 9c368178 edc3e846
+              e2265944 751ed975 8951cd10 849d6160 cb5df997 224d8e98 e6e37ff6 5bbbaecd
+              ca4a816b 5e0bf351 e1742be9 7e27a7d9 99494ef8 a580db25 0f1c6362 8ac93367
+              6b3c1083 c6addea8 cd168e8d f0073771 9ff2abfc 41f5c18b ec00375d 09e54e80
+              effab15c 3806a51b 4ae1dc38 2d3cdcab 1f901ad5 4a9ceed1 706cccee f457f818
+              ba846e87
+            quit
+          crypto ca certificate chain _SmartCallHome_ServerCA2
+           certificate ca 0509
+              308205b7 3082039f a0030201 02020205 09300d06 092a8648 86f70d01 01050500
+              3045310b 30090603 55040613 02424d31 19301706 0355040a 13105175 6f566164
+              6973204c 696d6974 6564311b 30190603 55040313 1251756f 56616469 7320526f
+              6f742043 41203230 1e170d30 36313132 34313832 3730305a 170d3331 31313234
+              31383233 33335a30 45310b30 09060355 04061302 424d3119 30170603 55040a13
+              1051756f 56616469 73204c69 6d697465 64311b30 19060355 04031312 51756f56
+              61646973 20526f6f 74204341 20323082 0222300d 06092a86 4886f70d 01010105
+              00038202 0f003082 020a0282 0201009a 18ca4b94 0d002daf 03298af0 0f81c8ae
+              4c19851d 089fab29 4485f32f 81ad321e 9046bfa3 86261a1e fe7e1c18 3a5c9c60
+              172a3a74 8333307d 615411cb edabe0e6 d2a27ef5 6b6f18b7 0a0b2dfd e93eef0a
+              c6b310e9 dcc24617 f85dfda4 daff9e49 5a9ce633 e62496f7 3fba5b2b 1c7a35c2
+              d667feab 66508b6d 28602bef d760c3c7 93bc8d36 91f37ff8 db1113c4 9c7776c1
+              aeb7026a 817aa945 83e205e6 b956c194 378f4871 6322ec17 6507958a 4bdf8fc6
+              5a0ae5b0 e35f5e6b 11ab0cf9 85eb44e9 f80473f2 e9fe5c98 8cf573af 6bb47ecd
+              d45c022b 4c39e1b2 95952d42 87d7d5b3 9043b76c 13f1dedd f6c4f889 3fd175f5
+              92c391d5 8a88d090 ecdc6dde 89c26571 968b0d03 fd9cbf5b 16ac92db eafe797c
+              adebaff7 16cbdbcd 252be51f fb9a9fe2 51cc3a53 0c48e60e bdc9b476 0652e611
+              13857263 0304e004 362b2019 02e874a7 1fb6c956 66f07525 dc67c10e 616088b3
+              3ed1a8fc a3da1db0 d1b12354 df44766d ed41d8c1 b222b653 1cdf351d dca1772a
+              31e42df5 e5e5dbc8 e0ffe580 d70b63a0 ff33a10f ba2c1515 ea97b3d2 a2b5bef2
+              8c961e1a 8f1d6ca4 6137b986 7333d797 969e237d 82a44c81 e2a1d1ba 675f9507
+              a32711ee 16107bbc 454a4cb2 04d2abef d5fd0c51 ce506a08 31f991da 0c8f645c
+              03c33a8b 203f6e8d 673d3ad6 fe7d5b88 c95efbcc 61dc8b33 77d34432 35096204
+              921610d8 9e2747fb 3b21e3f8 eb1d5b02 03010001 a381b030 81ad300f 0603551d
+              130101ff 04053003 0101ff30 0b060355 1d0f0404 03020106 301d0603 551d0e04
+              1604141a 8462bc48 4c332504 d4eed0f6 03c41946 d1946b30 6e060355 1d230467
+              30658014 1a8462bc 484c3325 04d4eed0 f603c419 46d1946b a149a447 3045310b
+              30090603 55040613 02424d31 19301706 0355040a 13105175 6f566164 6973204c
+              696d6974 6564311b 30190603 55040313 1251756f 56616469 7320526f 6f742043
+              41203282 02050930 0d06092a 864886f7 0d010105 05000382 0201003e 0a164d9f
+              065ba8ae 715d2f05 2f67e613 4583c436 f6f3c026 0c0db547 645df8b4 72c946a5
+              03182755 89787d76 ea963480 1720dce7 83f88dfc 07b8da5f 4d2e67b2 84fdd944
+              fc775081 e67cb4c9 0d0b7253 f8760707 4147960c fbe08226 93558cfe 221f6065
+              7c5fe726 b3f73290 9850d437 7155f692 2178f795 79faf82d 26876656 3077a637
+              78335210 58ae3f61 8ef26ab1 ef187e4a 5963ca8d a256d5a7 2fbc561f cf39c1e2
+              fb0aa815 2c7d4d7a 63c66c97 443cd26f c34a170a f890d257 a21951a5 2d9741da
+              074fa950 da908d94 46e13ef0 94fd1000 38f53be8 40e1b46e 561a20cc 6f588ded
+              2e458fd6 e9933fe7 b12cdf3a d6228cdc 84bb226f d0f8e4c6 39e90488 3cc3baeb
+              557a6d80 9924f56c 01fbf897 b0945beb fdd26ff1 77680d35 6423acb8 55a103d1
+              4d4219dc f8755956 a3f9a849 79f8af0e b911a07c b76aed34 d0b62662 381a870c
+              f8e8fd2e d3907f07 912a1dd6 7e5c8583 99b03808 3fe95ef9 3507e4c9 626e577f
+              a75095f7 bac89be6 8ea201c5 d666bf79 61f33c1c e1b9825c 5da0c3e9 d848bd19
+              a2111419 6eb2861b 683e4837 1a88b75d 965e9cc7 ef276208 e291195c d2f121dd
+              ba174282 97718153 31a99ff6 7d62bf72 e1a3931d cc8a265a 0938d0ce d70d8016
+              b478a53a 874c8d8a a5d54697 f22c10b9 bc5422c0 01506943 9ef4b2ef 6df8ecda
+              f1e3b1ef df918f54 2a0b25c1 2619c452 100565d5 8210eac2 31cd2e
+            quit
+          telnet timeout 10
+          ssh stricthostkeycheck
+          ssh timeout 5
+          ssh key-exchange group dh-group14-sha256
+          console timeout 0
+          console serial
+          threat-detection basic-threat
+          threat-detection statistics access-list
+          no threat-detection statistics tcp-intercept
+          dynamic-access-policy-record DfltAccessPolicy
+          !
+          class-map inspection_default
+           match default-inspection-traffic
+          !
+          !
+          policy-map type inspect dns preset_dns_map
+           parameters
+            message-length maximum client auto
+            message-length maximum 512
+            no tcp-inspection
+          policy-map global_policy
+           class inspection_default
+            inspect ip-options
+            inspect netbios
+            inspect rtsp
+            inspect sunrpc
+            inspect tftp
+            inspect dns preset_dns_map
+            inspect ftp
+            inspect h323 h225
+            inspect h323 ras
+            inspect rsh
+            inspect esmtp
+            inspect sqlnet
+            inspect sip
+            inspect skinny
+            inspect icmp
+          policy-map type inspect dns migrated_dns_map_2
+           parameters
+            message-length maximum client auto
+            message-length maximum 512
+            no tcp-inspection
+          policy-map type inspect dns migrated_dns_map_1
+           parameters
+            message-length maximum client auto
+            message-length maximum 512
+            no tcp-inspection
+          !
+          service-policy global_policy global
+          prompt hostname context
+          call-home reporting anonymous
+          call-home
+           profile License
+            destination address http https://tools.cisco.com/its/service/oddce/services/DDCEService
+            destination transport-method http
+           profile CiscoTAC-1
+            no active
+            destination address http https://tools.cisco.com/its/service/oddce/services/DDCEService
+            destination address email callhome@cisco.com
+            destination transport-method http
+            subscribe-to-alert-group diagnostic
+            subscribe-to-alert-group environment
+            subscribe-to-alert-group inventory periodic monthly
+            subscribe-to-alert-group configuration periodic monthly
+            subscribe-to-alert-group telemetry periodic daily
+          Cryptochecksum:88d18662d6ca53063923006548a8617e
+          : end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n15
+    image_definition: null
+    label: asav-0
+    node_definition: asav
+    parameters: {}
+    ram: null
+    tags: []
+    x: 120
+    y: -760
+    interfaces:
+      - id: i0
+        label: Management0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i5
+        label: GigabitEthernet0/4
+        mac_address: null
+        type: physical
+        slot: 5
+links:
+  - id: l0
+    n1: n0
+    n2: n2
+    i1: i5
+    i2: i1
+    conditioning: {}
+    label: DIST1-Ethernet1/0<->ACC1-Ethernet0/0
+  - id: l1
+    n1: n0
+    n2: n2
+    i1: i6
+    i2: i2
+    conditioning: {}
+    label: DIST1-Ethernet1/1<->ACC1-Ethernet0/1
+  - id: l2
+    n1: n1
+    n2: n2
+    i1: i5
+    i2: i3
+    conditioning: {}
+    label: DIST2-Ethernet1/0<->ACC1-Ethernet0/2
+  - id: l3
+    n1: n1
+    n2: n2
+    i1: i6
+    i2: i4
+    conditioning: {}
+    label: DIST2-Ethernet1/1<->ACC1-Ethernet0/3
+  - id: l4
+    n1: n0
+    n2: n3
+    i1: i7
+    i2: i1
+    conditioning: {}
+    label: DIST1-Ethernet1/2<->ACC2-Ethernet0/0
+  - id: l5
+    n1: n0
+    n2: n3
+    i1: i8
+    i2: i2
+    conditioning: {}
+    label: DIST1-Ethernet1/3<->ACC2-Ethernet0/1
+  - id: l6
+    n1: n1
+    n2: n3
+    i1: i7
+    i2: i3
+    conditioning: {}
+    label: DIST2-Ethernet1/2<->ACC2-Ethernet0/2
+  - id: l7
+    n1: n1
+    n2: n3
+    i1: i8
+    i2: i4
+    conditioning: {}
+    label: DIST2-Ethernet1/3<->ACC2-Ethernet0/3
+  - id: l8
+    n1: n0
+    n2: n4
+    i1: i9
+    i2: i1
+    conditioning: {}
+    label: DIST1-Ethernet2/0<->ACC3-Ethernet0/0
+  - id: l9
+    n1: n0
+    n2: n4
+    i1: i10
+    i2: i2
+    conditioning: {}
+    label: DIST1-Ethernet2/1<->ACC3-Ethernet0/1
+  - id: l10
+    n1: n1
+    n2: n4
+    i1: i9
+    i2: i3
+    conditioning: {}
+    label: DIST2-Ethernet2/0<->ACC3-Ethernet0/2
+  - id: l11
+    n1: n1
+    n2: n4
+    i1: i10
+    i2: i4
+    conditioning: {}
+    label: DIST2-Ethernet2/1<->ACC3-Ethernet0/3
+  - id: l12
+    n1: n2
+    n2: n5
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: ACC1-Ethernet1/0<->PC1-eth0
+  - id: l13
+    n1: n3
+    n2: n6
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: ACC2-Ethernet1/0<->PC2-eth0
+  - id: l14
+    n1: n4
+    n2: n7
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: ACC3-Ethernet1/0<->PC3-eth0
+  - id: l15
+    n1: n9
+    n2: n0
+    i1: i1
+    i2: i2
+    conditioning: {}
+    label: CORE1-GigabitEthernet1<->DIST1-Ethernet0/1
+  - id: l16
+    n1: n9
+    n2: n0
+    i1: i2
+    i2: i1
+    conditioning: {}
+    label: CORE1-GigabitEthernet2<->DIST1-Ethernet0/0
+  - id: l17
+    n1: n9
+    n2: n1
+    i1: i3
+    i2: i2
+    conditioning: {}
+    label: CORE1-GigabitEthernet3<->DIST2-Ethernet0/1
+  - id: l18
+    n1: n9
+    n2: n1
+    i1: i4
+    i2: i1
+    conditioning: {}
+    label: CORE1-GigabitEthernet4<->DIST2-Ethernet0/0
+  - id: l19
+    n1: n9
+    n2: n10
+    i1: i5
+    i2: i5
+    conditioning: {}
+    label: CORE1-GigabitEthernet5<->CORE2-GigabitEthernet5
+  - id: l20
+    n1: n10
+    n2: n1
+    i1: i1
+    i2: i4
+    conditioning: {}
+    label: CORE2-GigabitEthernet1<->DIST2-Ethernet0/3
+  - id: l21
+    n1: n10
+    n2: n1
+    i1: i2
+    i2: i3
+    conditioning: {}
+    label: CORE2-GigabitEthernet2<->DIST2-Ethernet0/2
+  - id: l22
+    n1: n10
+    n2: n0
+    i1: i3
+    i2: i4
+    conditioning: {}
+    label: CORE2-GigabitEthernet3<->DIST1-Ethernet0/3
+  - id: l23
+    n1: n10
+    n2: n0
+    i1: i4
+    i2: i3
+    conditioning: {}
+    label: CORE2-GigabitEthernet4<->DIST1-Ethernet0/2
+  - id: l24
+    n1: n12
+    n2: n8
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: iol-l2-0-Ethernet1/0<->PC4-eth0
+  - id: l25
+    n1: n12
+    n2: n1
+    i1: i3
+    i2: i11
+    conditioning: {}
+    label: iol-l2-0-Ethernet0/2<->DIST2-Ethernet2/2
+  - id: l26
+    n1: n12
+    n2: n1
+    i1: i4
+    i2: i12
+    conditioning: {}
+    label: iol-l2-0-Ethernet0/3<->DIST2-Ethernet2/3
+  - id: l27
+    n1: n12
+    n2: n0
+    i1: i1
+    i2: i11
+    conditioning: {}
+    label: iol-l2-0-Ethernet0/0<->DIST1-Ethernet2/2
+  - id: l28
+    n1: n12
+    n2: n0
+    i1: i2
+    i2: i12
+    conditioning: {}
+    label: iol-l2-0-Ethernet0/1<->DIST1-Ethernet2/3
+  - id: l29
+    n1: n13
+    n2: n12
+    i1: i0
+    i2: i6
+    conditioning: {}
+    label: dnsmasq-0-eth0<->ACC4_1-Ethernet1/1
+  - id: l30
+    n1: n14
+    n2: n12
+    i1: i0
+    i2: i7
+    conditioning: {}
+    label: net-tools-0-eth0<->ACC4_1-Ethernet1/2
+  - id: l31
+    n1: n9
+    n2: n15
+    i1: i6
+    i2: i1
+    conditioning: {}
+    label: CORE1-GigabitEthernet6<->asav-0-GigabitEthernet0/0
+  - id: l32
+    n1: n10
+    n2: n15
+    i1: i6
+    i2: i2
+    conditioning: {}
+    label: CORE2-GigabitEthernet6<->asav-0-GigabitEthernet0/1
+  - id: l33
+    n1: n15
+    n2: n11
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: asav-0-GigabitEthernet0/2<->ext-conn-0-port
+lab:
+  description: Core/Distribution/Access with OSPF, L3/L2 EtherChannel, HSRP, STP,
+    VTP, L2 Security, ACLs
+  notes: |
+    # 🏢 3-Tier Enterprise Network Lab
+
+    ## 🎯 Objectives
+
+    - ✅ OSPF Area 0 between Core and Distribution layers
+    - ✅ Layer 3 routed EtherChannel (LACP) — Core ↔ Distribution
+    - ✅ Layer 2 EtherChannel + 802.1Q trunking — Distribution ↔ Access
+    - ✅ HSRP first-hop redundancy (DIST1=Active for VLANs 10/30, DIST2=Active for VLANs 20/40)
+    - ✅ Deterministic STP root placement per VLAN, aligned with the active HSRP gateway
+    - ✅ VTP version 2 for VLAN propagation
+    - ✅ VLAN segmentation: VLANs 10, 20, 30, 40
+    - ✅ L2 Security: BPDU Guard, port-security, DHCP snooping
+    - ✅ Named ACL restricting inter-VLAN management access
+
+    ---
+
+    ## 🗺️ Topology Overview
+
+    ```
+    ┌─────────────────────────────────────────────┐
+    │              CORE LAYER                     │
+    │   CORE1 ─────────────────────── CORE2       │
+    │   (1.1.1.1)   10.0.12.16/30   (2.2.2.2)    │
+    └──────┬──────────────────────────┬───────────┘
+      Po1/Po2                    Po3/Po4
+      (L3 EtherChannel)         (L3 EtherChannel)
+    ┌──────┴──────────────────────────┴───────────┐
+    │           DISTRIBUTION LAYER                │
+    │   DIST1 ◄──── HSRP ────► DIST2              │
+    │ (Active: VLANs 10,30)  (Active: VLANs 20,40)│
+    └──────┬──────────────────────────┬───────────┘
+         L2 EtherChannel trunks (LACP, dot1Q)
+      ┌────┴────┬──────────┬──────────┴────┐
+     [ACC1]  [ACC2]     [ACC3]       [ACC4]
+    VLAN10  VLAN20    VLAN30       VLAN40
+      |       |          |             |
+    [PC1]   [PC2]      [PC3]        [PC4]
+    10.0.10.11  10.0.20.11  10.0.30.11  10.0.40.11
+    ```
+
+    ---
+
+    ## 📦 IP Addressing Plan
+
+    ### L3 EtherChannel Port-Channels (Routed)
+
+    | Link | Subnet | CORE IP | DIST IP |
+    |---|---|---|---|
+    | CORE1 ↔ DIST1 (Po1) | 10.0.12.0/30 | 10.0.12.1 | 10.0.12.2 |
+    | CORE1 ↔ DIST2 (Po2) | 10.0.12.4/30 | 10.0.12.5 | 10.0.12.6 |
+    | CORE2 ↔ DIST1 (Po3) | 10.0.12.8/30 | 10.0.12.9 | 10.0.12.10 |
+    | CORE2 ↔ DIST2 (Po4) | 10.0.12.12/30 | 10.0.12.13 | 10.0.12.14 |
+    | CORE1 ↔ CORE2 | 10.0.12.16/30 | 10.0.12.17 | 10.0.12.18 |
+
+    ### Loopbacks (OSPF Router-IDs)
+
+    | Device | Loopback0 |
+    |---|---|
+    | CORE1 | 1.1.1.1/32 |
+    | CORE2 | 2.2.2.2/32 |
+    | DIST1 | 3.3.3.3/32 |
+    | DIST2 | 4.4.4.4/32 |
+
+    ### VLAN SVIs & HSRP (on DIST1 and DIST2)
+
+    | VLAN | Name | Subnet | DIST1 SVI | DIST2 SVI | HSRP VIP | Active |
+    |---|---|---|---|---|---|---|
+    | 10 | DATA | 10.0.10.0/24 | 10.0.10.2/24 | 10.0.10.3/24 | 10.0.10.1 | DIST1 |
+    | 20 | GUESTS | 10.0.20.0/24 | 10.0.20.2/24 | 10.0.20.3/24 | 10.0.20.1 | DIST2 |
+    | 30 | MGMT | 10.0.30.0/24 | 10.0.30.2/24 | 10.0.30.3/24 | 10.0.30.1 | DIST1 |
+    | 40 | SERVERS | 10.0.40.0/24 | 10.0.40.2/24 | 10.0.40.3/24 | 10.0.40.1 | DIST2 |
+
+    ### Host Addresses
+
+    | Host | VLAN | IP | Gateway |
+    |---|---|---|---|
+    | PC1 | 10 | 10.0.10.10/24 | 10.0.10.1 (HSRP VIP) |
+    | PC2 | 20 | 10.0.20.10/24 | 10.0.20.1 (HSRP VIP) |
+    | PC3 | 30 | 10.0.30.10/24 | 10.0.30.1 (HSRP VIP) |
+    | PC4 | 40 | 10.0.40.10/24 | 10.0.40.1 (HSRP VIP) |
+
+    ---
+
+    ## 📋 Student Lab Tasks
+
+    ### Phase 1 — Foundation
+    - Configure hostnames on all 8 network devices
+    - Set enable secret and console/VTY passwords; enable `service password-encryption`
+    - Configure **Loopback0** on CORE1 (1.1.1.1/32), CORE2 (2.2.2.2/32), DIST1 (3.3.3.3/32), DIST2 (4.4.4.4/32)
+
+    ### Phase 2 — VTP & VLAN Propagation
+    - Configure **VTP version 2**, domain `ENTERPRISE` on all switches
+    - Set **DIST1 as VTP Server**; DIST2 and all Access switches as **VTP Clients**
+    - Create VLANs **10 (DATA)**, **20 (GUESTS)**, **30 (MGMT)**, **40 (SERVERS)** on DIST1
+    - Verify propagation: `show vlan brief` on all access switches
+
+    ### Phase 3 — STP Root Placement
+    - Configure DIST1 as **primary root** for VLANs 10 and 30 (matching its active HSRP role)
+    - Configure DIST2 as **primary root** for VLANs 20 and 40 (matching its active HSRP role)
+    - Enable **PortFast** and **BPDU Guard** on ACC1–ACC4 host-facing ports (Ethernet1/0)
+    - Verify: `show spanning-tree vlan 10` — DIST1 must be root bridge for VLAN 10
+
+    ### Phase 4 — L2 EtherChannel (Distribution ↔ Access)
+    - Configure **LACP mode active** port-channels on all Distribution–Access uplinks
+    - **DIST1 side:** Po1 per ACC switch using Et1/x and Et2/x interfaces per mapping table
+    - **DIST2 side:** Po2 per ACC switch using Et1/x and Et2/x interfaces per mapping table
+    - **ACC side:** Po1 toward DIST1 (Et0/0 + Et0/1), Po2 toward DIST2 (Et0/2 + Et0/3)
+    - Configure **dot1Q trunking** on all port-channels; allow only the VLAN for that access switch
+    - Verify: `show etherchannel summary` — Po1 and Po2 must show **(P)** bundled
+
+    ### Phase 5 — L3 EtherChannel (Core ↔ Distribution)
+    - Configure all Core–Distribution member interfaces as **routed (no switchport)**
+    - Build **LACP active** port-channels: CORE1 Po1↔DIST1, CORE1 Po2↔DIST2, CORE2 Po3↔DIST1, CORE2 Po4↔DIST2
+    - Assign **/30 IP addresses** to the port-channel interfaces per the addressing plan
+    - Configure the **direct routed link** CORE1 Et0/0 ↔ CORE2 Et0/0 (10.0.12.16/30)
+    - Verify: `show interfaces port-channel X` — up/up; ping each /30 peer
+
+    ### Phase 6 — OSPF Area 0
+    - Enable **OSPF process 1** on CORE1, CORE2, DIST1, DIST2
+    - Advertise all routed interfaces (port-channels + direct link) and **Loopback0**
+    - Set `passive-interface` on all VLAN SVI interfaces at Distribution layer
+
+    ### Phase 7 — HSRP
+    - On **DIST1**: configure HSRP groups 10 and 30 with **priority 110** (Active); groups 20 and 40 stay at default priority (Standby)
+    - On **DIST2**: configure HSRP groups 20 and 40 with **priority 110** (Active); groups 10 and 30 stay at default priority (Standby)
+    - VIPs: VLAN10=10.0.10.1, VLAN20=10.0.20.1, VLAN30=10.0.30.1, VLAN40=10.0.40.1
+    - Enable `preempt` on the active groups on each distribution switch
+    - Verify: `show standby brief` — DIST1 Active for VLANs 10/30, DIST2 Active for VLANs 20/40
+
+    ### Phase 8 — L2 Security
+    - Enable **DHCP snooping** on ACC1–ACC4 for the appropriate VLANs
+    - Mark Distribution uplink port-channels as **trusted**; Ethernet1/0 (PC ports) as **untrusted**
+    - Configure **port-security** on Ethernet1/0 of all ACC switches: max 2 MACs, violation shutdown
+    - Verify: `show ip dhcp snooping binding`, `show port-security interface Ethernet1/0`
+
+    ### Phase 9 — ACLs (Inter-VLAN Restriction)
+    - Create named ACL **`MGMT-RESTRICT`** on both DIST1 and DIST2
+    - **Deny** traffic sourced from 10.0.10.0/24 (VLAN 10) destined to 10.0.30.0/24 (VLAN 30 MGMT)
+    - **Deny** traffic sourced from 10.0.20.0/24 (VLAN 20) destined to 10.0.30.0/24 (VLAN 30 MGMT)
+    - **Permit** all other traffic
+    - Apply **inbound** on VLAN 10 and VLAN 20 SVI interfaces
+    - Verify: `show ip access-lists MGMT-RESTRICT`; test with ping from PC1/PC2 to PC3
+
+    ### Phase 10 — End-to-End Validation
+    - ✅ PC1 ping PC2 (inter-VLAN — should succeed)
+    - ❌ PC1 ping PC3 (ACL block — should fail)
+    - ✅ PC1 ping PC4 (inter-VLAN — should succeed)
+    - Shut DIST1 → verify HSRP Active role for VLANs 10/30 moves to DIST2
+    - Remove one EtherChannel member link → verify traffic continues uninterrupted
+    - Confirm STP root bridge is unchanged after failures
+
+    ---
+
+    ## 📋 Per-Device Configuration Checklist
+
+    | Device | What to Configure |
+    |---|---|
+    | **CORE1** | Hostname, Loopback0 (1.1.1.1/32), routed Po1 (Et0/1+Et0/2) IP 10.0.12.1/30, routed Po2 (Et0/3+Et1/0) IP 10.0.12.5/30, Et0/0 IP 10.0.12.17/30, OSPF process 1 area 0 on all |
+    | **CORE2** | Hostname, Loopback0 (2.2.2.2/32), routed Po3 (Et0/1+Et0/2) IP 10.0.12.9/30, routed Po4 (Et0/3+Et1/0) IP 10.0.12.13/30, Et0/0 IP 10.0.12.18/30, OSPF process 1 area 0 on all |
+    | **DIST1** | Hostname, Loopback0 (3.3.3.3/32), VTP Server, VLANs 10/20/30/40, STP primary root for VLANs 10 & 30, routed Po1 (Et0/0+Et0/1) IP 10.0.12.2/30 toward CORE1, routed Po3 (Et0/2+Et0/3) IP 10.0.12.10/30 toward CORE2, L2 Po1 per ACC switch (trunks), SVIs for VLANs 10-40, HSRP active priority 110 on groups 10 & 30, OSPF area 0, ACL MGMT-RESTRICT inbound on VLAN 10,20,40 SVIs |
+    | **DIST2** | Hostname, Loopback0 (4.4.4.4/32), VTP Client, STP primary root for VLANs 20 & 40, routed Po2 (Et0/0+Et0/1) IP 10.0.12.6/30 toward CORE1, routed Po4 (Et0/2+Et0/3) IP 10.0.12.14/30 toward CORE2, L2 Po2 per ACC switch (trunks), SVIs for VLANs 10-40, HSRP active priority 110 on groups 20 & 40, OSPF area 0, ACL MGMT-RESTRICT inbound on VLAN 10,20,40 SVIs |
+    | **ACC1** | Hostname, VTP Client, LACP Po1 (Et0/0+Et0/1) trunk to DIST1, LACP Po2 (Et0/2+Et0/3) trunk to DIST2, allow VLAN 10 on trunks, Et1/0 = access VLAN 10 + PortFast + BPDU Guard, DHCP snooping (trust Po1+Po2), port-security on Et1/0 |
+    | **ACC2** | Same as ACC1 but VLAN 20 |
+    | **ACC3** | Same as ACC1 but VLAN 30 |
+    | **ACC4** | Same as ACC1 but VLAN 40 |
+    | **PC1–4** | Set IP per host addressing table; default gateway = HSRP VIP of respective VLAN |
+
+    ---
+
+    ## ✅ Success Criteria
+
+    - [ ] VLANs 10/20/30/40 visible on all switches via VTP (`show vlan brief`)
+    - [ ] DIST1 is STP root for VLANs 10 & 30; DIST2 is STP root for VLANs 20 & 40; BPDU Guard active on host ports
+    - [ ] All 8 port-channels show **(P)** bundled in `show etherchannel summary`
+    - [ ] OSPF adjacencies FULL on all Core–Distribution links
+    - [ ] HSRP: DIST1 Active (priority 110) for VLANs 10 & 30, DIST2 Active (priority 110) for VLANs 20 & 40
+    - [ ] DHCP snooping active; trusted ports correctly set
+    - [ ] Port-security active on all host-facing ports
+    - [ ] `MGMT-RESTRICT` ACL blocks VLAN 10,20,40  → VLAN 30
+    - [ ] PC1↔PC2 ping succeeds; PC1↔PC3 ping fails
+    - [ ] HSRP failover and EtherChannel link removal tests pass
+  title: 3-Tier Enterprise Network Lab1
+  version: 0.3.0
