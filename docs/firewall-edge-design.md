@@ -17,17 +17,6 @@ Each firewall had its **own private point-to-point links** — not a shared segm
 
 **Why it failed:** ASA failover requires both units to sit on the *same* L2 segment on each interface, so the standby can silently monitor the active unit and take over the same IP instantly. Two independent point-to-point links are not a shared segment — `show failover` reported `Interface inside: Failed (Waiting)` because ASAv-2 had nothing to monitor on its own isolated link to CORE2.
 
-**Fix required:** introduced two `unmanaged_switch` nodes (`INSIDE-SW`, `OUTSIDE-SW`) so both ASAs' inside interfaces shared one segment, and both outside interfaces shared another. Re-addressed:
-
-| Segment | Purpose | Range |
-|---|---|---|
-| Inside | ASAv-1 (active), ASAv-2 (standby), CORE1, CORE2 | `10.0.12.32/28` |
-| Outside | ASAv-1 (active), ASAv-2 (standby), ext-conn-0 | `192.168.255.0/24` |
-
-Once both ASAs shared real segments, `show failover` correctly reported `Standby Ready`, versions/serials matched, and config replication (interfaces, NAT, routes) worked automatically from the active unit to the standby.
-
-**Simple explanation:** failover is a spare tire that's already mounted on the same car, spinning, ready to touch the road instantly. The original wiring was two separate cars — the "spare" had nothing to take over.
-
 ---
 
 ## Iteration 2 — Two Independent Firewalls (Rejected — asymmetric routing)
