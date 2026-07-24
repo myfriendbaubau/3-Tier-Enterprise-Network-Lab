@@ -6,8 +6,8 @@ A 3-tier enterprise network (Core / Distribution / Access) built in Cisco Modeli
 
 | Doc | Covers |
 |---|---|
-| [`/3-Tier-Enterprise-Network-Lab.docx`](./docs/3-Tier-Enterprise-Network-Lab.docx) | Base fabric: topology, addressing plan, per-device config checklist, all 10 build phases |
-| [`/firewall-edge-design.md`](./docs/firewall-edge-design.md) | Firewall edge: all 3 design iterations, final configs, redundancy tradeoffs |
+| [`docs/3-Tier-Enterprise-Network-Lab.docx`](./docs/3-Tier-Enterprise-Network-Lab.docx) | Base fabric: topology, addressing plan, per-device config checklist, all 10 build phases |
+| [`docs/firewall-edge-design.md`](./docs/firewall-edge-design.md) | Firewall edge: all 3 design iterations, final configs, redundancy tradeoffs |
 | [`CHANGELOG.md`](./CHANGELOG.md) | Build history across both phases |
 
 ## Highlights
