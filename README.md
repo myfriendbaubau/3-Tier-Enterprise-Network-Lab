@@ -43,8 +43,6 @@ Full reasoning, configs, and addressing for all three iterations are in [`docs/f
 
 ## Validated
 
-## Validated
-
 - OSPF adjacencies FULL on all Core–Distribution links
 - HSRP failover tested (DIST1 shutdown → active role moves to DIST2 cleanly)
 - EtherChannel member-link removal tested (traffic continues uninterrupted on remaining member)
