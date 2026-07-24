@@ -18,6 +18,17 @@ A 3-tier enterprise network (Core / Distribution / Access) built in Cisco Modeli
 - **Security:** named ACL enforcing inter-VLAN management restrictions; DHCP served centrally from CORE1 with per-VLAN pools
 - **Internet edge:** single-firewall design (ASAv) sitting between both cores and the internet, with a floating static route for backup path resilience
 
+
+## Device Access
+Import lab/3-tier-enterprise-network-lab.yaml into CML to run this topology yourself.
+| [`lab/3-tier-enterprise-network-lab.yaml`](./lab/3-tier-enterprise-network-lab.yaml) | Full CML lab export — import directly to run the topology |
+
+All devices use local authentication:
+- Username: `cisco`
+- Password: `cmllab` *(placeholder — change after import)*
+- enable secret cisco
+- SSH-only on VTY lines, no Telnet
+
 ## Design journey
 
 The firewall edge went through three architectures before landing on the current one:
