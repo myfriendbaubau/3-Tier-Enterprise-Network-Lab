@@ -21,7 +21,7 @@ A 3-tier enterprise network (Core / Distribution / Access) built in Cisco Modeli
 
 ## Device Access
 Import lab/3-tier-enterprise-network-lab.yaml into CML to run this topology yourself.
-| [`lab/3-tier-enterprise-network-lab.yaml`](./lab/3-tier-enterprise-network-lab.yaml) | Full CML lab export — import directly to run the topology |
+| [`lab/3-Tier_Enterprise_Network_Lab1.yaml`](./lab/3-Tier_Enterprise_Network_Lab1.yaml) | Full CML lab export — import directly to run the topology |
 
 All devices use local authentication:
 - Username: `cisco`
