@@ -50,7 +50,7 @@ Full reasoning, configs, and addressing for all three iterations are in [`docs/f
 - MGMT-RESTRICT ACL confirmed blocking VLAN 10/20/40 → VLAN 30 on both distribution switches
 - End-to-end internet reachability confirmed from all four VLANs through the firewall edge
 
-### Phase 10 evidence
+### Evidence
 ![OSPF adjacencies FULL](./docs/screenshots/phase10-ospf-adjacencies-full.png)
 ![HSRP failover](./docs/screenshots/phase10-hsrp-failover.png)
 ![EtherChannel resilience](./docs/screenshots/phase10-etherchannel-resilience.png)
