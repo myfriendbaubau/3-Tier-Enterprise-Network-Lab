@@ -14,7 +14,7 @@ Core / Distribution / Access network built in Cisco Modeling Labs.
 - Named ACL (`MGMT-RESTRICT`) restricting inter-VLAN management access
 - Centralized DHCP service from CORE1, relayed via `ip helper-address`
 
-📄 Full spec: [`docs/3-Tier-Enterprise-Network-Lab.docx`](./docs/3-Tier-Enterprise-Network-Lab.docx)
+📄 Full spec: [`docs/3-Tier_Enterprise_Network_Lab_v4.docx`](./docs/3-Tier_Enterprise_Network_Lab_v4.docx)
 
 **Validated:**
 - OSPF adjacencies FULL on all Core–Distribution links
