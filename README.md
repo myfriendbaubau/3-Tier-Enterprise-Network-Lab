@@ -31,6 +31,8 @@ All devices use local authentication:
 - enable secret cisco
 - SSH-only on VTY lines, no Telnet
 
+| [`configs/`](./configs/) | Individual device configs (CORE1, CORE2, DIST1, DIST2, ACC1–4, asav-0) — plain text, readable inline |
+
 ## Design journey
 
 The firewall edge went through three architectures before landing on the current one:
