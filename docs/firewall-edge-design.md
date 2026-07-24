@@ -1,6 +1,6 @@
 # Firewall Edge Design
 
-This document covers the internet-facing firewall edge added on top of the base 3-tier fabric described in [`docs/3-Tier_Enterprise_Network_Lab_v4.docx`](.docs/3-Tier_Enterprise_Network_Lab_v4.docx). It went through three distinct architectures before landing on the current design — each iteration is documented here because the reasoning behind rejecting the first two is arguably more valuable than the final config alone.
+This document covers the internet-facing firewall edge added on top of the base 3-tier fabric described in [`docs/3-Tier_Enterprise_Network_Lab_v4.docx`](./docs/3-Tier_Enterprise_Network_Lab_v4.docx). It went through three distinct architectures before landing on the current design — each iteration is documented here because the reasoning behind rejecting the first two is arguably more valuable than the final config alone.
 
 ---
 
