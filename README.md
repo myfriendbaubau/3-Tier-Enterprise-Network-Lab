@@ -51,8 +51,11 @@ Full reasoning, configs, and addressing for all three iterations are in [`docs/f
 - End-to-end internet reachability confirmed from all four VLANs through the firewall edge
 
 ### Phase 10 evidence
-
-![PC1-PC2-PC3-PC4 ping test](./docs/screenshots/phase10-pc1-pc2-pc3-pc4-pings.png)
+![OSPF adjacencies FULL](./docs/screenshots/phase10-ospf-adjacencies-full.png)
 ![HSRP failover](./docs/screenshots/phase10-hsrp-failover.png)
 ![EtherChannel resilience](./docs/screenshots/phase10-etherchannel-resilience.png)
 ![STP root bridge unchanged](./docs/screenshots/phase10-stp-root-unchanged.png)
+![PC1-PC2-PC3-PC4 ping test](./docs/screenshots/phase10-pc1-pc2-pc3-pc4-pings.png)
+
+
+
