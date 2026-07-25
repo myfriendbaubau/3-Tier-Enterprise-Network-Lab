@@ -38,3 +38,17 @@ Internet-facing firewall edge added on top of the v1.0 fabric. Evaluated three a
 - End-to-end internet reachability confirmed from all four VLANs through the firewall edge
 - Floating static route confirmed providing backup path if one core-to-firewall link fails
 - ICMP inspection gap identified and fixed (`inspect icmp` required for transit ping tests through ASA)
+
+## v3.0 — Hybrid Cloud VPN
+
+Site-to-site IKEv2/IPsec tunnel from the on-prem fabric to an AWS VPC, terminated on `asav-0` — the same firewall already handling NAT and inspection, rather than a dedicated VPN appliance.
+
+- IKEv2 (AES-256/SHA-256/DH14) + ESP (AES-256/SHA-256), PSK auth
+- Tunnel selectors: `10.0.40.0/24` ↔ AWS `10.99.0.12/32`
+- ASA is initiator — it sits behind the home router's NAT; NAT-T encapsulates ESP in UDP 4500
+- AWS side: VPC `10.99.0.0/24`, strongSwan 6.x on EC2 (`swanctl`, not legacy `ipsec.conf`)
+- No NAT Gateway deployed (~$33/mo avoided)
+
+📄 Full design, configs, and troubleshooting: [`docs/hybrid-cloud-vpn.md`](./docs/hybrid-cloud-vpn.md)
+
+**Validated:** end-to-end reachability PC4 → AWS EC2 through the tunnel, ~48ms RTT, symmetric encaps/decaps counters on the ASA, `ESTABLISHED`/`INSTALLED` on strongSwan.
