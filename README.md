@@ -10,6 +10,7 @@ A 3-tier enterprise network (Core / Distribution / Access) built in Cisco Modeli
 |---|---|
 | [`docs/3-Tier_Enterprise_Network_Lab_v4.docx`](./docs/3-Tier_Enterprise_Network_Lab_v4.docx) | Base fabric: topology, addressing plan, per-device config checklist, all 10 build phases |
 | [`docs/firewall-edge-design.md`](./docs/firewall-edge-design.md) | Firewall edge: all 3 design iterations, final configs, redundancy tradeoffs |
+| [`docs/hybrid-cloud-vpn.md`](./docs/hybrid-cloud-vpn.md) | Hybrid cloud: IKEv2/IPsec tunnel to AWS, configs, troubleshooting |
 | [`CHANGELOG.md`](./CHANGELOG.md) | Build history across both phases |
 
 ## Highlights
