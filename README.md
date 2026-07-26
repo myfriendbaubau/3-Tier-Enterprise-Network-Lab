@@ -1,6 +1,6 @@
 # CML 3-Tier Enterprise Network Lab + Firewall Edge
 
-A 3-tier enterprise network (Core / Distribution / Access) built in Cisco Modeling Labs (CML), later extended with an iteratively-designed single-firewall internet edge. Built and documented in two phases — see [`CHANGELOG.md`](./CHANGELOG.md) for the full history.
+A 3-tier enterprise network (Core / Distribution / Access) built in Cisco Modeling Labs (CML), later extended with an iteratively-designed single-firewall internet edge. Built and documented in phases — see [`CHANGELOG.md`](./CHANGELOG.md) for the full history.
 
 ![Network Topology](./docs/diagrams/cml-topology.png)
 
@@ -11,7 +11,8 @@ A 3-tier enterprise network (Core / Distribution / Access) built in Cisco Modeli
 | [`docs/3-Tier_Enterprise_Network_Lab_v4.docx`](./docs/3-Tier_Enterprise_Network_Lab_v4.docx) | Base fabric: topology, addressing plan, per-device config checklist, all 10 build phases |
 | [`docs/firewall-edge-design.md`](./docs/firewall-edge-design.md) | Firewall edge: all 3 design iterations, final configs, redundancy tradeoffs |
 | [`docs/hybrid-cloud-vpn.md`](./docs/hybrid-cloud-vpn.md) | Hybrid cloud: IKEv2/IPsec tunnel to AWS, configs, troubleshooting |
-| [`CHANGELOG.md`](./CHANGELOG.md) | Build history across both phases |
+| [`CHANGELOG.md`](./CHANGELOG.md) | Build history across all phases |
+| [`docs/management-network.md`](./docs/management-network.md) | Management network: in-band design, SSH enablement, Ansible controller |
 
 ## Highlights
 
