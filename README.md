@@ -1,5 +1,6 @@
 # CML 3-Tier Enterprise Network Lab + Firewall Edge
 
+
 A 3-tier enterprise network (Core / Distribution / Access) built in Cisco Modeling Labs (CML), later extended with an iteratively-designed single-firewall internet edge. Built and documented in phases — see [`CHANGELOG.md`](./CHANGELOG.md) for the full history.
 
 ![Network Topology](./docs/diagrams/cml-topology.png)
