@@ -52,3 +52,19 @@ Site-to-site IKEv2/IPsec tunnel from the on-prem fabric to an AWS VPC, terminate
 📄 Full design, configs, and troubleshooting: [`docs/hybrid-cloud-vpn.md`](./docs/hybrid-cloud-vpn.md)
 
 **Validated:** end-to-end reachability PC4 → AWS EC2 through the tunnel, ~48ms RTT, symmetric encaps/decaps counters on the ASA, `ESTABLISHED`/`INSTALLED` on strongSwan.
+
+## v4.0 — Network Automation
+
+Management access layer and Ansible-driven configuration management.
+
+- In-band management network (`10.0.50.0/24`); Ubuntu controller attached to CORE1 `Gi7`, advertised into OSPF
+- Out-of-band rejected: the IOL switches had no free interfaces and CML locks physical config on running nodes — tradeoff documented
+- SSH enabled across all 9 devices; management SVIs and static default routes added to the access switches
+- Credentials created on ACC2–ACC4, which previously had none
+- Config backup with automatic credential scrubbing, committed to Git only when something changed
+- First write playbook fixed a ~36-hour clock skew across three device groups — found by the automation's own read-only fact gathering
+
+📄 [`docs/management-network.md`](./docs/management-network.md)
+🔗 Playbooks: [network-automation](https://github.com/myfriendbaubau/network-automation)
+
+**Validated:** drift detection confirmed by making an unsaved change on ACC1 and observing it captured, timestamped, and committed on the next run.
