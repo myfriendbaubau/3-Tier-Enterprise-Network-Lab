@@ -54,6 +54,7 @@ Full reasoning, configs, and addressing for all three iterations are in [`docs/f
 - STP root bridge confirmed unchanged for all VLANs after HSRP and EtherChannel failure tests
 - MGMT-RESTRICT ACL confirmed blocking VLAN 10/20/40 → VLAN 30 on both distribution switches
 - End-to-end internet reachability confirmed from all four VLANs through the firewall edge
+-  Site-to-site IPsec tunnel to AWS verified
 
 ### Evidence
 ![OSPF adjacencies FULL](./docs/screenshots/phase10-ospf-adjacencies-full.png)
@@ -61,6 +62,7 @@ Full reasoning, configs, and addressing for all three iterations are in [`docs/f
 ![EtherChannel resilience](./docs/screenshots/phase10-etherchannel-resilience.png)
 ![STP root bridge unchanged](./docs/screenshots/phase10-stp-root-unchanged.png)
 ![PC1-PC2-PC3-PC4 ping test](./docs/screenshots/phase10-pc1-pc2-pc3-pc4-pings.png)
+![Tunnel verification](./docs/screenshots/vpn-tunnel-verified.png)
 
 
 
